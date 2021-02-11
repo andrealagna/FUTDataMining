@@ -8,6 +8,7 @@ public class Comment {
     private String author;
     private Date date;
     private String text;
+    private String sentiment;
 
     public Comment (String id, Date date, String text, String author){
         this.id = id;
@@ -30,6 +31,8 @@ public class Comment {
 
     public String getAuthor() { return author; }
 
+    public String getSentiment() { return sentiment; }
+
     public void setId(String id) {
         this.id = id;
     }
@@ -41,6 +44,9 @@ public class Comment {
     public void setText(String text) {
         this.text = text;
     }
+
+    public void setSentiment(String sentiment) { this.sentiment = sentiment; }
+
 
     @Override
     public String toString(){

@@ -93,7 +93,6 @@
     -fx-cursor: hand;
 }
 
-
 .commentContainer{
     -fx-padding: 10 20;
 }
@@ -105,7 +104,6 @@
     -fx-min-width: 300;
     -fx-max-width: 300;
     -fx-word-wrap: break-word;
-    -fx-border-style: none;
     -fx-font-size: 15;
 }
 
@@ -114,6 +112,58 @@
 }
 
 .commentContainer .text-area .scroll-pane .scroll-bar:vertical {
+    -fx-pref-width: 1;
+    -fx-opacity: 0;
+}
+
+.commentContainerPositive{
+    -fx-padding: 10 20;
+}
+
+.commentContainerPositive .text-area{
+    -fx-padding: 15 5 15 10;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-min-width: 300;
+    -fx-max-width: 300;
+    -fx-word-wrap: break-word;
+    -fx-border-color: #39FF14;
+    -fx-border-width: 3px;
+    -fx-font-size: 15;
+    -fx-border-radius: 10;
+}
+
+.commentContainerPositive .text-area .content {
+    -fx-background-color: white;
+}
+
+.commentContainerPositive .text-area .scroll-pane .scroll-bar:vertical {
+    -fx-pref-width: 1;
+    -fx-opacity: 0;
+}
+
+.commentContainerNegative{
+    -fx-padding: 10 20;
+}
+
+.commentContainerNegative .text-area{
+    -fx-padding: 15 5 15 10;
+    -fx-background-color: white;
+    -fx-background-radius: 10;
+    -fx-min-width: 300;
+    -fx-max-width: 300;
+    -fx-word-wrap: break-word;
+    -fx-border-color: red;
+    -fx-border-width: 3px;
+    -fx-font-size: 15;
+    -fx-border-radius: 10;
+}
+
+.commentContainerNegative .text-area .content {
+    -fx-background-color: white;
+}
+
+.commentContainerNegative .text-area .scroll-pane .scroll-bar:vertical {
     -fx-pref-width: 1;
     -fx-opacity: 0;
 }

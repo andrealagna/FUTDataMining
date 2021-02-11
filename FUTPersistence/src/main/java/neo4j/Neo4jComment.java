@@ -52,6 +52,7 @@ public class Neo4jComment extends Neo4jConnection{
         return comments;
     }
 
+
     public boolean createComment(final String player_id,  final String text, final String user_id){
         boolean check = true;
         try (Session session = driver.session()){
@@ -72,9 +73,6 @@ public class Neo4jComment extends Neo4jConnection{
     }
 
     public static void main( String... args ) throws Exception{
-        try ( Neo4jComment ex = new Neo4jComment() )
-        {
-            ex.createComment("1", "che forte", "10");
-        }
+
     }
 }

@@ -2,6 +2,7 @@ package org.unipi.group15;
 
 import bean.Comment;
 import bean.Player;
+import dataMining.Classify;
 import javafx.fxml.FXML;
 import javafx.geometry.Pos;
 import javafx.scene.control.Button;
@@ -38,6 +39,10 @@ public class CommentsPageController {
 
     @FXML private Button buildButton;
 
+    @FXML private Label likeLabel;
+
+    @FXML private Label dislikeLabel;
+
     @FXML
     private void switchToProfile() {
         App.setRoot("userPage");
@@ -71,7 +76,8 @@ public class CommentsPageController {
     }
 
     @FXML
-    private void initialize() {
+    private void initialize() throws Exception {
+
         usernameLabel.setText(userSession.getUsername());
         userIdLabel.setText(userSession.getUserId());
 
@@ -79,7 +85,7 @@ public class CommentsPageController {
             buildButton.setDisable(true);
         }
 
-        upLabel.setText("Comments related to " + player.getPlayerExtendedName() + " player card. Position: " + player.getPosition() + " Overall: " + player.getOverall() );
+        upLabel.setText(player.getPlayerExtendedName() + " " + player.getPosition() + " " + player.getOverall() );
         if (!checkService("This service is not currently available")){
             return;
         }
@@ -88,7 +94,7 @@ public class CommentsPageController {
     }
 
     @FXML
-    public void loadComments(){
+    public void loadComments() throws Exception {
         commentsGridPane.getChildren().clear();
         ArrayList<Comment> comments = neo4jComment.showComment(player.getPlayerId());
         if (comments == null){
@@ -98,36 +104,53 @@ public class CommentsPageController {
             }
             return;
         }
-
         if(comments.size() == 0){
              return;
         }
+        Classify cl = new Classify();
+        ArrayList<Comment> opinions = cl.labelComments(comments);
+
+        ArrayList<Integer> countOpinions;
+        countOpinions = new ArrayList<Integer>();
+        countOpinions.add(0);
+        countOpinions.add(0);
+
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
-        for (int i = 0; i < comments.size(); i++){
-            String user = comments.get(i).getAuthor().equals(userSession.getUsername()) ? "Me" : comments.get(i).getAuthor();
+        for (int i = 0; i < opinions.size(); i++){
+            String user = opinions.get(i).getAuthor().equals(userSession.getUsername()) ? "Me" : opinions.get(i).getAuthor();
             VBox v1 = new VBox(new Label("Posted by"), new Text(user));
             HBox h1 = new HBox(v1);
             h1.setAlignment(Pos.CENTER); v1.setAlignment(Pos.CENTER);
             commentsGridPane.add(h1, 0, i);
             HBox hText = new HBox();
-            TextArea textArea = new TextArea(comments.get(i).getText());
+            TextArea textArea = new TextArea(opinions.get(i).getText());
             textArea.setWrapText(true);
             textArea.setEditable(false);
             hText.getChildren().add(textArea);
             hText.getStyleClass().add("commentContainer");
             commentsGridPane.add(hText, 1, i);
-            VBox v2 = new VBox(new Label("Posted on"), new Text(format.format(comments.get(i).getDate())));
+            VBox v2 = new VBox(new Label("Posted on"), new Text(format.format(opinions.get(i).getDate())));
             HBox h2 = new HBox(v2);
             h2.setAlignment(Pos.CENTER); v2.setAlignment(Pos.CENTER);
             commentsGridPane.add(h2, 2, i);
+            if(opinions.get(i).getSentiment().equals("positive")){
+                countOpinions.set(1,countOpinions.get(1)+1);
+                hText.getStyleClass().add("commentContainerPositive");
+            }
+            else if(opinions.get(i).getSentiment().equals("negative")){
+                countOpinions.set(0,countOpinions.get(0)+1);
+                hText.getStyleClass().add("commentContainerNegative");
+            }
         }
+        likeLabel.setText(countOpinions.get(1).toString());
+        dislikeLabel.setText(countOpinions.get(0).toString());
         commentsGridPane.setHgap(10);
         commentsGridPane.setHgap(10);
 
     }
 
     @FXML
-    public void createComment() {
+    public void createComment() throws Exception {
         String commentText = newCommentText.getText();
         Alert alert = new Alert(Alert.AlertType.WARNING, "The text field is empty, please fill it", ButtonType.OK);
         Alert alert1 = new Alert(Alert.AlertType.INFORMATION, "Comments insert correctly", ButtonType.CLOSE);

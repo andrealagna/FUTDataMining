@@ -97,10 +97,16 @@
             </VBox>
             <AnchorPane layoutX="240.0" prefHeight="600.0" prefWidth="661.0">
                <children>
-                  <Label fx:id="upLabel" layoutX="19.0" layoutY="36.0" prefHeight="31.0" prefWidth="623.0" text="Label" />
-                  <TextArea fx:id="newCommentText" layoutX="23.0" layoutY="462.0" prefHeight="119.0" prefWidth="460.0" promptText="Insert here your comment..." />
+                  <Label fx:id="upLabel" layoutX="19.0" layoutY="16.0" prefHeight="74.0" prefWidth="355.0" text="Label">
+                     <font>
+                        <Font size="15.0" />
+                     </font></Label>
+                  <TextArea fx:id="newCommentText" layoutX="23.0" layoutY="462.0" prefHeight="119.0" prefWidth="460.0" promptText="Insert here your comment...">
+                     <font>
+                        <Font size="18.0" />
+                     </font></TextArea>
                   <Button fx:id="postButton" layoutX="517.0" layoutY="499.0" mnemonicParsing="false" onMouseClicked="#createComment" prefHeight="45.0" prefWidth="78.0" text="Post" />
-                  <ScrollPane fx:id="commentsScrollPane" layoutX="19.0" layoutY="66.0" prefHeight="384.0" prefWidth="623.0">
+                  <ScrollPane fx:id="commentsScrollPane" layoutX="19.0" layoutY="94.0" prefHeight="356.0" prefWidth="623.0">
                      <content>
                         <GridPane fx:id="commentsGridPane" alignment="CENTER" prefHeight="42.0" prefWidth="573.0">
                           <columnConstraints>
@@ -111,6 +117,26 @@
                         </GridPane>
                      </content>
                   </ScrollPane>
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="436.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../img/like.jpg" />
+                     </image>
+                  </ImageView>
+                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="494.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../img/dislike.jpg" />
+                     </image>
+                  </ImageView>
+                  <Label fx:id="likeLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="377.0" layoutY="32.0" prefHeight="35.0" prefWidth="63.0">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="dislikeLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="556.0" layoutY="32.0" prefHeight="35.0" prefWidth="63.0">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </Label>
                </children>
             </AnchorPane>
          </children>
