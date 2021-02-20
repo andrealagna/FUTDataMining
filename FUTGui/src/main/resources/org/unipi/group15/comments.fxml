@@ -117,14 +117,9 @@
                         </GridPane>
                      </content>
                   </ScrollPane>
-                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="436.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="88.0" fitWidth="138.0" layoutX="436.0" layoutY="3.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../../../img/like.jpg" />
-                     </image>
-                  </ImageView>
-                  <ImageView fitHeight="88.0" fitWidth="99.0" layoutX="494.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
-                     <image>
-                        <Image url="@../../../img/dislike.jpg" />
                      </image>
                   </ImageView>
                   <Label fx:id="likeLabel" alignment="CENTER" contentDisplay="CENTER" layoutX="377.0" layoutY="32.0" prefHeight="35.0" prefWidth="63.0">
