@@ -16,6 +16,7 @@ public class Comment {
         this.text = text;
         this.author = author;
     }
+    public Comment(){}
 
     public String getId() {
         return id;

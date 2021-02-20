@@ -1,25 +1,44 @@
 package dataMining;
 
 import bean.Comment;
+
+import com.github.pemistahl.lingua.api.Language;
+import com.github.pemistahl.lingua.api.LanguageDetector;
+import com.github.pemistahl.lingua.api.LanguageDetectorBuilder;
 import weka.classifiers.bayes.NaiveBayesMultinomialText;
 import weka.core.*;
 import weka.core.SerializationHelper;
+
+import java.io.BufferedWriter;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 
 public class Classify {
 
     public ArrayList<Comment> cleanComments(ArrayList<Comment> comments) throws Exception{
+        ArrayList<Comment> c = new ArrayList<>();
         String cleanedComment;
+        final LanguageDetector detector = LanguageDetectorBuilder.fromLanguages(Language.ITALIAN, Language.ENGLISH).build();
         for(int i = 0; i < comments.size(); i++) {
             cleanedComment = comments.get(i).getText();
             cleanedComment.replaceAll("\\s+", " ");
             cleanedComment.replaceAll("(https?|ftp|file)://[-a-zA-Z0-9+&@#/%?=~_|!:,.;]*[-a-zA-Z0-9+&@#/%=~_|]"," ");
+            final Language detectedLanguage = detector.detectLanguageOf(cleanedComment);
+            if(detectedLanguage.toString().equals("ENGLISH")) {
+                Comment newComment = new Comment();
+                newComment.setText(cleanedComment);
+                c.add(newComment);
+            }
         }
-        return comments;
+        return c;
     }
 
 
-    public ArrayList<Comment> labelComments(ArrayList<Comment> comments) throws Exception{
+    public ArrayList<Comment> labelComments(ArrayList<Comment> c) throws Exception{
+
+        ArrayList<Comment> comments = cleanComments(c);
 
         ArrayList<String> classes;
         classes = new ArrayList<String>();
