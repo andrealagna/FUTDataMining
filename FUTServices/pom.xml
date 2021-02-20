@@ -42,7 +42,6 @@
             <artifactId>snowball-stemmers-weka-package</artifactId>
             <version>1.0.1</version>
         </dependency>
-
         <dependency>
             <groupId>com.github.pemistahl</groupId>
             <artifactId>lingua</artifactId>

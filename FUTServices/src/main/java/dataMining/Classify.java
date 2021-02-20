@@ -27,8 +27,7 @@ public class Classify {
             cleanedComment.replaceAll("(https?|ftp|file)://[-a-zA-Z0-9+&@#/%?=~_|!:,.;]*[-a-zA-Z0-9+&@#/%=~_|]"," ");
             final Language detectedLanguage = detector.detectLanguageOf(cleanedComment);
             if(detectedLanguage.toString().equals("ENGLISH")) {
-                Comment newComment = new Comment();
-                newComment.setText(cleanedComment);
+                Comment newComment = new Comment(comments.get(i).getId(),comments.get(i).getDate(),cleanedComment,comments.get(i).getAuthor());
                 c.add(newComment);
             }
         }
