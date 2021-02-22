@@ -35,6 +35,7 @@ public class Classify {
     }
 
 
+
     public ArrayList<Comment> labelComments(ArrayList<Comment> c) throws Exception{
 
         ArrayList<Comment> comments = cleanComments(c);
