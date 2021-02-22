@@ -9,10 +9,6 @@ import weka.classifiers.bayes.NaiveBayesMultinomialText;
 import weka.core.*;
 import weka.core.SerializationHelper;
 
-import java.io.BufferedWriter;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 
 public class Classify {

@@ -52,7 +52,6 @@ public class Neo4jComment extends Neo4jConnection{
         return comments;
     }
 
-
     public boolean createComment(final String player_id,  final String text, final String user_id){
         boolean check = true;
         try (Session session = driver.session()){
