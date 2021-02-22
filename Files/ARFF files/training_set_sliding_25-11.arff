@@ -1,0 +1,1808 @@
+@relation train_set
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'How tf is he 80? should be 77 at best',negative
+'The disrespect. Hopefully he retains his 5* skill moves so that his non performance based upgrades will be god tier',negative
+'Should have been CF or RW',negative
+'This is just disrespectful. If Ea are not gonna watch football at least look at the season stats before rating a player. Just unreal that he is an 85 with 82 (to say the least) and Im a dortmund fan',negative
+'the spanish son but 0*0*',negative
+'deserved 5*5*',negative
+'Sorry, but i think Karim deserves at least the rating Salah and Mane got. I think he is the more talented and smarter on the pitch than them. Too much hype around the Preimer League only because of the way they market themselves',negative
+unusable,negative
+'0 stats changes... downgrade',negative
+'deserved 85',negative
+'He should have been upgraded',negative
+'0 WEAK FOOT',negative
+'Look how they massascred my BOY -',negative
+'39 pace even my granny is faster',negative
+'should be 89 pace at least and 5wf man',negative
+'Downgrades to Marquinhos, Thiago Silva, Kimpembe, Alaba, and Boating? Davies not even in the top 20 fullbacks? Crazy, it\'s like these two teams barely conceded any goals on their way to the champions league final while Liverpool got punted out by Llorente in the round of 16...But let\'s upgrade Matip?',negative
+'I did not now that he lost 2 of his legs and got 68 Pace by EA',negative
+'Anthony Lopes was as consistent as Sommer or even better... No reason for -2...',negative
+'Poor thing that he has -20 pace... Back in the they with Ribery',negative
+'This card should have been 87 after what the season he had.',negative
+'in what world was he better than zagadou? He is the worst dortmund purchase in recent years, and he is somehow still 80 rated',negative
+'Wanna hear a joke?',negative
+'Should have 5 * Skills',negative
+'He has less dribbling then Wan-Wood-Bisaka while having great dribbling success rate.',negative
+'deserve 84 at most',negative
+'lewa robbed. deserved 93+',negative
+'86 Rated Ziyech Card, that\'s what he deserves on Fifa 21.His weak foot must be 3 instead of 2EA Upgrade him',negative
+'EA just seems to have a problem with certain players. The guy had been consistently scoring 20+ goals each season in the top flight for the last 4 years and they struggled to put him past 83. Now he just gets downgraded.',negative
+unusable,negative
+'deserved 80 or less',negative
+'got an upgrade in pretty much everything from last year\'s card and still a -1i need some of what EA are having while making these ratings',negative
+'He\'s been butchered this year',negative
+'Him having the same rating as Telles is just ridiculous, should be 82',negative
+'86 stamina is such a joke. he literally never stops running',negative
+'2 informs 3 potms 1 motm winter upgrade and tots card DOWNGRADE!',negative
+'WTF he was so good for Chelsea last season, was expecting 83',negative
+'Oh look how they massacred my boy',negative
+'M/M is stupid, you can even give him High defensive WR and I wouldn\'t complain, always seems to work harder than Barca\'s midfield everytime he plays. ',negative
+'deserved 84-85',negative
+'did saul get downraded wtf',negative
+'deserved a downgrade imo',negative
+'He was ranked number 6th best player in serie A last season in the official rankings and he gets downgraded? I am sure it is only because his age',negative
+'This card should have been a 87 for sure.',negative
+'Man Unt ruined his holl career. Only ogs remenber the good old arsenal days',negative
+Disappointing,negative
+'He honestly toward the back half of the season hasn\'t been very good on the ball, and he just gave away another goal',negative
+'Sad to see how his career is ending, used to be one of the best players in the premier league. Sold his soul and went for the P\'s',negative
+'What is EA doing. I mean deserved rating but 3* weak foot? He\'s scored more goals with his weak foot than any other player in the premier league last season.',negative
+'This rating is so stupid... Average player and had a super average season. No explanation whatsoever for this rating.',negative
+'put Hunter on him and still unusuable..',negative
+'People saying he\'s had a bad season? Hasn\'t been good for over 2 years. Deserved downgrade.',negative
+'Why the downgrade?',negative
+'I don\'t understand this downgrade tbh',negative
+DOWNGRADE,negative
+'84 it s bad',negative
+'He should get a downgrade',negative
+'Should have been 85 at least',negative
+'44 shooting and 5* weak foot? This means he will at least shoot as equally bad with both feet!',negative
+'should be a non-rare Right Back...',negative
+'I hate ea. I think he played well at right back. But ea just f u c k it up',negative
+'Downgrade after future stars? EA don\'t watch football',negative
+'How tf did he get a downgrade, It makes no f sense',negative
+'I don\'t understand this downgrade',negative
+'79 ? what a joke, and he should be CDM  ',negative
+'Look how they massacred my boy...',negative
+'Minus 3 is just incredibly harsh',negative
+Downgrade?,negative
+'once klopp leaves liverpool, everyone is going to see how absolute dog sh*t him and Trent are. So overrated ',negative
+'Lewandowski is the most overrated player of all time',negative
+'look how they massacred my boy',negative
+'42 PHY... even if he got some informs, will have **** stamina, so probably unusable (sorry for bad english)',negative
+'deserves much more',negative
+'stupid to be downgraded, man was decent last season',negative
+'Literally no one cares about this guy.',negative
+'ridiculous!',negative
+'You know it\'s bad when Serge Aurier getting an upgrade isn\'t even close to being the worst rating choice EA have made for FIFA 21',negative
+'This man won the football writers player of the year award and came second in the PFA POTY award behind only KDB. Actually crazy that people think an 86 is too high for him. Fair enough if people think Thiago deserves higher than 85 I agree but donâ€™t take it out on Henderson. Such a bandwagon against Henderson itâ€™s ridiculous.',negative
+'This stats an absolute joke',negative
+'They make AgÃ¼ero bad because of his pace stat',negative
+'Disrespect :\\',negative
+'why non rare and whats with all these pace downgrades',negative
+'I think a small pace downgrade is deserved. Don\'t get me wrong, he\'s very fast but not like 90+ pace. I would give him something like 91 acceleration and 87 sprint speed. So maybe 88-89 pace but never ever 82. Plus I think his overall should be 86.',negative
+'less shooting than sterling',negative
+'Fernandinho was my cdm the whole year, he\'s such a beast. shame that he got a downgrade and position change',negative
+'Deserves more AF',negative
+'EA is hating chelsea players WTF',negative
+'85 rating is good, since he\'s going to be a OTW and he\'s going to get a lot of upgrades and special cards. 85 makes his otw actually affordable ',positive
+'83? should be 99',negative
+'Disrespect. He really deserved his 86. **** EA.',negative
+'Yo wtf, this dude deserves at least 86/87. ',negative
+'PSG wins domestic quadruple and makes it to their first ever CL final... everyones downgraded....? just...',negative
+'Give him a hunter chemistry style and that\'s it. I don\'t understand this rating either, but I would just deal with it the best way possible. His Shooting is good, he can take a hunter pace boost and everything\'s fine. With a hunter he has 95 positioning, 90 finishing, 99 acceleration and 86 sprint speed, that equals 93 pace',positive
+'I think its a fair card. He\'s pace could be higher, maybe like 88 acceleration with 85 sprint speed. So maybe like 87 pace. The other stats are fine, of course 74 shooting or 81 passing seems not high enough but if you check his ingame stats its fair. 87 vision, 88 short passing, 83 positioning etc. ',positive
+'Drgreenthumbb, It could be great with Joe Gomez or s/one higher than Thiago Silva cause this year probably will be back the aerial game',positive
+'Should have more pace. And no I\'m not talking about that Dembele thing, cuz dembele was back from an injury. This guy can actually run really fast, but doesn\'t always necessarily need it!',negative
+'done him dirty',negative
+'This is an actual joke EA. Best player in the championship last year, just made his England Debut. EA\'s having a laugh',negative
+'The disrespect...',negative
+'Yay I was gonna use him but he isnâ€™t gonna have good enough composure or reactions',negative
+'man,i feel bad for him, he won cl, world cup just to get absolute ****ty card in fifa... but i still love him in real life :))',negative
+'had a breakout season and gets this, bruh',negative
+'should be at least 80 rated',negative
+'I genuinely dont get it how u can be this wrong with a rating. It obvius that he was our best defender last season and one of the best in europe. 84 Rating is not even close, even an 86 would ve been horribly wrong but this ****....this **** doenst make sense',negative
+'i remember him in my fut 20 starter squad he did good',positive
+'great card',positive
+'Milan fan here, but he should be at least 82',negative
+'Should be higher rated imo :)',negative
+'His moments last year was insane!',positive
+'insanely talented just needs to work on his shooting',positive
+'Underrated ingame',positive
+'the one and only bayern player EA not ruined',positive
+'looks unusable unfortunately',negative
+'great player',positive
+Slow,negative
+'ffs I was planning on using this guy in my starter team',positive
+'This card is 5 ratings lower than what it should be.',negative
+'Bruh EA killed pace this year',negative
+'underrated player',positive
+'His heading accuracy must be 99 ...',negative
+Unusable,negative
+'Good attacker',positive
+'deserved 86',negative
+'People always says he deserve rating like this, well there you go. The problem ain\'t the rating, it is about the stats, and to a lot of cards it is the same. This card is pointless.',negative
+'they transferred witsel\'s pace to brandt\'s defending',negative
+'Slaughtered his pace, now only good for fodder ngl',negative
+'The disrespect from EA...',negative
+'i don\'t know how he only has 67 pace',negative
+'I think he should be at least 77',negative
+'no upgrade? WOW',negative
+'49 Sliding Tackle kills the card',negative
+'this is a disgrace',negative
+'Absolute baller, deserves much more pace',negative
+'No way in hell he is faster than Gnabry and Sancho',negative
+'he deserves 89 rate and 90 on shooting',negative
+'THIS CANNOT BE REAL... HOW TF IS UPA STILL 79?!?!?!',negative
+'Faster than Gnabry, Sancho... nvm ea',negative
+'Deserved downgrade!',negative
+'This is such a joke? he should literally be playing sunday league football. And he is also higher than thiago. Only liverpool bandwagons respect this card.',negative
+'no reason for this upgrade.',negative
+'EA gave this guy a 93 overall card last year has he carried Leipzig... 79 seems deserving',negative
+'derserved card but wtf ea how does he go from 60 pace to faster than gnabry and sancho',negative
+'His rating should be higher in my opinion, but EA likes to do Bayern players dirty.',negative
+'He deserved 83, but even 81 would be decent. Come on EA!',negative
+'Deserved rating but unfair stats upgrade. Needs around 90 pace',negative
+'only 79?',negative
+'Too high',negative
+Overrated.,negative
+'BIG flop',negative
+'still unusable rip',negative
+'hes unusable ngl',negative
+undeserved,negative
+unusable,negative
+'Worst player of Juve this seasonAbsolutelyÂ clown!',negative
+overrated,negative
+'robbed!!!!!! should be gold',negative
+'I mean this is just disrespectful',negative
+'worst version of adam traore',negative
+'height undeserved',negative
+overrated,negative
+'Why so low rated?',negative
+'Well he sucks.',negative
+'Overrated, only had 1 good season (his CL run)',negative
+'Deserved a downgrade ffs',negative
+'absolutely disgraceful. Should\'ve been upgraded he was Newcastle\'s top scorer in all comps and he wasn\'t even playing his proper position.',negative
+unusable,negative
+'slap a shadow and you can discard him faster',negative
+'Slower then my Gym Coaches Nan',negative
+'when the hell did douglas costa get that finishing upgrade ?',negative
+'Downgrade? Absolute joke',negative
+'deserved 93 or more',negative
+'Overrated, witsel is better and has only 84 wtf',negative
+overrated,negative
+'85 rating is good, since he\'s going to be a OTW and he\'s going to get a lot of upgrades and special cards. 85 makes his otw actually affordable',positive
+'Amazing stats',positive
+'This guy was AMAZING on Fifa 20 career mode, hope he is just as good this year. Might try him on FUT too now.',positive
+'The Goat',positive
+'great player for the firts mounth of the game',positive
+ok,positive
+'Man U legend',positive
+Finally!,positive
+'Best player ever',positive
+'Hottest fotballer alive, no cap!',positive
+'perfect Cam',positive
+'Nice upgrade',positive
+'Looks so good!',positive
+'Legend forever',positive
+'What a beast at Cdm even CB',positive
+'Amazing card',positive
+'There is only one king',positive
+'The king is back!',positive
+goat,positive
+'Beautiful CDM for the first months.',positive
+'one of the best of all time',positive
+'Liverpool legend',positive
+'good for a starter team',positive
+'Im gonna use him next to Iniesta, legends unite again...',positive
+'I would use this in my fifa 20 squad right now',positive
+'Real madrid LEGEND',positive
+'The goat',positive
+'Man, i want a serie a team. And i want him',positive
+'nice card',positive
+'THIS CARD LOOKS INSANE',positive
+Legend!!,positive
+'the king is back!',positive
+great!!!!,positive
+'get in my team',positive
+wow,positive
+'great cdm',positive
+'nice wig',positive
+'He\'s the goat.',positive
+'Sevilla legend!',positive
+'looks good',positive
+'Nice goal in the MLS is back Tournament!',positive
+'So well rounded',positive
+GOAT,positive
+'damn looks insane actually',positive
+'my legend!',positive
+'This man is one of the greatest CB\'s of all time... one of only 3 players to win PL player of the season twice (Henry and  being the others). Lukaku must be right, they are surely trying to generate attention, by outraging fans, with bad ratings. Either that or this is just more of what EA have done to United, Bayern and Arsenal this year. Tanking their player ratings, because they signed with PES. They really must have really ****ed off some people at EA, but surely an icon like Vidic get, who doesn\'t even play for United anymore, wouldn\'t be affected by that, would he?',positive
+'Absolute legend. Remember guys if you\'re getting FIFA 21, play to have fun with players you admire. Let\'s bring the \'friendly fun\' back to the game.',positive
+'Damn the king is here',positive
+BEAST,positive
+'good for my starter.... oh wait :)))',positive
+'Greatest LB in the Premier League in his time. 89 Prime Icon?! EA just love French players',positive
+'Nonrare legend',positive
+'What a legend, I honestly can\'t wait to see him in the league next season, and he\'ll spice up the Spurs do***entary even more!',positive
+'welcome to my concept dream squad',positive
+Legend,positive
+'i want him in icon swaps',positive
+legend,positive
+'Pretty nice card ngl',positive
+'Kudus in Indonesian mean Holy. So this is holy card.',positive
+'Great first day card!',positive
+wow,positive
+yes,positive
+cool,positive
+'The greatest 10 in Premier league history.',positive
+'The return of the BEAST',positive
+'The king has returned.',positive
+'will be a beast in the future',positive
+GOD!!!,positive
+'legendary hair',positive
+Legend,positive
+'o god',positive
+'Great starter',positive
+GOAT,positive
+'Better than Pogba atm',positive
+'Hello legend',positive
+'4* SKILLS IM SO HAPPY',positive
+'The King has returned to take back his throne.',positive
+'I like what I see',positive
+'holy moly what a card',positive
+'THE GOD',positive
+'FIFA 14 LEGEND',positive
+'hes going in my starter squad',positive
+'BABY GULLIT gang!!!',positive
+'Best Uruguayan player in laliga.',positive
+'The best scottish LB from the prem',positive
+'Starter squad beast',positive
+'great link to salvio',positive
+'Nice link with Maregod',positive
+'good starter for the linkt with malen',positive
+'Cant wait to el-tornado cross with him',positive
+'Swansea legend!',positive
+'Finally the stamina he deserves',positive
+'nice starter card tbf',positive
+'Yes yes yes yes yes!!!!',positive
+'Come and link next to your brother Militao <3',positive
+'Looks fine',positive
+Nice,positive
+'Looks like a beast 88 finishing!',positive
+'Nice link to Nacho',positive
+'Starter team for sure.',positive
+'He is back <3',positive
+'Top player',positive
+'The Notorious One, The Champ Champ.',positive
+'LINK TO MACKAY THE GOAT',positive
+'He can be beast',positive
+'will be beast in a starting squad',positive
+'Best Super League GK',positive
+'Best LB',positive
+'What a card!',positive
+'My hero<3',positive
+'Best pl cb in the history change my mindWelcome ma boyy <3',positive
+'Magician <3',positive
+'76. he\'s a beast',positive
+'The Beast',positive
+'Best player in Inter Miami HiguaÃ­n sucks donkey balls',positive
+Legend,positive
+'First of many',positive
+'Bro I\'m telling you, Eredivisie is the move!',positive
+'-3? Ea r u mad?',negative
+'The only thing in the world that is recommended by 10 dentists out of 10',positive
+'Lmao ea is a joke',negative
+trippleFckuea,negative
+'Player with most shot power. Cant wait to use my bootleg Roberto Carlos',positive
+'My man',positive
+'Honestly, this man was amazing! One of my heroes',positive
+'he actually  seems playable',positive
+'the legend, the myth himself',positive
+'Nice card',positive
+'completely deserved, even 83/84',positive
+Machine,positive
+'actually it\'s a decent card',positive
+'HeÃ¢â‚¬â„¢s rapid',positive
+'This guy never had a Red Card. One reason more to love him',positive
+'My love of Fifa 20. Impressive card for the first few months',positive
+'MAICON I LOVE YOUR SEXY BALD HEAD YOU BEAST',positive
+'been in my starter team since fifa 17 love him',positive
+'YOU NEVER DISAPPOINT DE PAULA I LOVE YOU',positive
+'I love this guy he shaved all the mothers in Fut Champions',positive
+'I love this guy he shaved all the mothers in Fut Champions and that was the best striker in Fifa 20 #99iconmoments',positive
+'I love this guy, my grandpa used to play with him',positive
+'I LOVE YPU SO MUCHHH',positive
+'love to see hes the only one in my dream squad that has no stats...',positive
+'My grabdfather met this beast , im proud',positive
+'Cheap beast',positive
+Beasttt,positive
+'He looks like a beast again.',positive
+'This guy will be my CAM in FIFA 21, such a well rounded beast.',positive
+'the king of 81',positive
+'imbula is the best player',positive
+'the beast makes it 2-1!!!',positive
+'beast probably would be good with a sniper',positive
+'career mode beast',positive
+'can\'t wait to get this beast in fifa 21',positive
+'We need icon sbcs like fifa 19 so I can use this beast again',positive
+'This guy is such a BEAST he feels faster than adama Traore in game and his foot is like Fucking aimbot',positive
+'fifa 18 beast',positive
+'like king cantona is the goat',positive
+'looks like a good attacking CM',positive
+'THE EGYPTIAN KING',positive
+'The king!!!',positive
+'King Kenny',positive
+'King Cantona The king of kings',positive
+'goodbye my king, you will always have a place in my heart',positive
+'The fucking king',positive
+'Yasssss the King is back at Inter. His defense,physis and passing oh my good, so dope ,and the even has decent shooting,dribble and allright pace. Def gonna be in my Belgium lads squad.',positive
+'Insane player!! FIFA 20 career mode sick',positive
+'The king is here',positive
+'The King will be back in my Team',positive
+'Balotelli... AGUEROOOOOOOOOOOO My favourite player of all time <333Hopefully, when he gets back from injury, he will play insane like always.',positive
+'Insane CB',positive
+'Totw 1 will be insane',positive
+'insane performance good job jamie',positive
+'he was great',positive
+Insane,positive
+'Deadeye and heâ€™s insane',positive
+'With a catalyst he looks insane',positive
+'looks insane with hawk',positive
+'Insane on CM',positive
+'Insane card',positive
+'Thats some insane stats for a silver card',positive
+'this card with deadeye looks seriously insane. with stats like that even the 3* wf won\'t be too bad for the first couple of months before broken cards get released',positive
+Legenda!!,positive
+GOAT,positive
+'the legend, the myth himself',positive
+'Best of history no debate.',positive
+'best Irish player ever',positive
+'One of the best keepers in the prem, incredibly underrated. There was no reason to downgrade him.',positive
+'definitely gonna pick him up this year, used him and he was definitely one of the best players i tried, and if pace really doesnâ€™t matter this year he stands more of a chance',positive
+'Best of history no debate.',positive
+'best fifa CM of all time',positive
+'imbula is the best player',positive
+'Oh,oh,oh fernandes BRUNOOO, hes Portuguese he will score goals hes magic BRUNOOOOO, the best midfielder since since paul scholes.',positive
+'Gonna be the best LB in the league this season',positive
+'Best Tottenham player',positive
+'Best left back in the world',positive
+'Best right back in the game',positive
+'Roooooooonaldo is the best ever. GOAT',positive
+'My best player of all time',positive
+'With shadow... best.',positive
+'Best European player ever',positive
+GOAT,positive
+'His moments was the best defender in the game',positive
+'This guys moments was the best centre back in the game',positive
+'The world best',positive
+'This guys moments was the best centre back in the game',positive
+'Best IV in turkey and Croatia',positive
+'The best Goalkeeper in Fifa and Besiktas',positive
+'Best defender of all time',positive
+'Best right back in liga nos',positive
+'Great card',positive
+'been in my starter team since fifa 17 love him',positive
+'Nice card',positive
+'With iniesta the best 8 ever. (From the Football Iâ€™ve seen)',positive
+'Best Player in sÃ¼per lig',positive
+'The greatest player of all time',positive
+'Great player as CAM',positive
+'greatest gk of all time',positive
+'Every year one of the best basic cards in the game. Gonna be a great cam',positive
+'great for a starter squad',positive
+'This guy is an absolute great player! He can score hole in ones so easily!',positive
+'he can play anywhere',positive
+'Great Season, letâ€™s be honest guys.',positive
+'Such a great card. In FUT 20 he was used right up until TOTS. Great agility, balance and finishing. All you need in a striker',positive
+Beast,positive
+'Best prem player ever',positive
+'Probably the greatest teenage talent ever. He could have been the GOAT without injuries....and he\'s the only player ever to play for both Real Madrid/Barcelona and both Milan/Inter without being called a snake. Respect.',positive
+'GREAT CDM',positive
+'great link with Liverpool',positive
+'great impact last season',positive
+'Great starter left back',positive
+'I have high hopes for him. Great player!',positive
+'Great card',positive
+'Incredible cb with anchor, link to gomez',positive
+'This guy looks incredible with a sniper. Just hope heâ€™s not too expensive...',positive
+'Incredible with sniper',positive
+'Since fifa 15 forever in my team, incredible LW. Love u YALA.',positive
+'Incredible stats',positive
+'This guy is absolutely incredible irl',positive
+'I donâ€™t know why but for me this card Looks incredible',positive
+'Fair rating, he was incredible against Besiktas',positive
+'the incredible',positive
+'this guy is incredible ingame',positive
+'incredible card, feel like he\'s going to be in my team for a long time. reminds me of Kante just taller',positive
+'Incredible Card, better than any other in the league right now',positive
+'Bought him,heâ€™s so good wow',positive
+'he\'s so good in game wow',positive
+'Wow what a monster card this year',positive
+'Lol I packed him from prime electrum players woowoww and tradable',positive
+'Wow he is fantastic',positive
+'Wow, I used him in game and heâ€™s class',positive
+Wow,positive
+'wow very grate player in game. Trust me',positive
+wow,positive
+wow,positive
+'Wow I was not expecting him to be such a beast in game! One of the best cams in game. He feels quick on the ball and the ball stays on his feet. Go with hunter/hawk on him. He will go up for sure just before the first fut champs.',positive
+'just wow',positive
+'He\'s crazy in game wow 21 games 41 goals and 14 assists',positive
+'Wow what a beast! His passing into the open space and his finesse shots are amazing! I have him at CAM, with Jota and Pepe beside him and Havertz up top.. I think heâ€™ll increase by a decent amount upon his release. The WF sucks obviously but you know this before buying him so just work around it',positive
+'Wow this card is a beast! Wand of a left boot',positive
+'WOW this guy is INSANE!! first time that a player make so many goals in my fifa history. 31 match 54 goals!! gonna keep him for long....',positive
+'defending stats wow better then casemiro',positive
+'Wow. He is so good!',positive
+'Im so hyped to play with his card today, damn!',positive
+'This guy is insane',positive
+'He is back <3',positive
+'My hero<3',positive
+'Love u',positive
+'I love you.',positive
+'my Favoriten icon for icon swaps love  this guy',positive
+'Love you chris',positive
+'I love this man',positive
+'I love you andy',positive
+'Lovely boy',positive
+'I love this man',positive
+'I fell in love with his smile',positive
+'we love Maxime',positive
+'Greatest English player',positive
+'great cb for the first starter team',positive
+'He Will be great',positive
+'Great starter cb',positive
+'great debut!!',positive
+'Tbf this is a great starter card',positive
+'Greatest manager of all time no cap',positive
+'Great player',positive
+'Looks great for an early cm',positive
+'slap a hunter on him and heâ€™s a great cam!',positive
+'Great duo with malong and dickmann',positive
+'Great starter card',positive
+'What a Great gk',positive
+'great CDM!',positive
+'Great goal',positive
+'shadow on him and hes a great starter cb',positive
+'Great player',positive
+'great link with saka',positive
+'Great investment',positive
+'Great for laliga squads, because he changed to granada',positive
+'Great CDC',positive
+'Great card for starter squad',positive
+'Beast at CAM',positive
+'He is a beast',positive
+'He is a beast!',positive
+'BEAST! Have All traits!',positive
+Beast,positive
+'This guy is a absolute beast for me him and sule are op',positive
+BEAST!,positive
+'Beast CB',positive
+'What a beast',positive
+'196cm with 83 jumping and 89 strength, he is a beast',positive
+'He is a beast !',positive
+Beast,positive
+'absolute beast in fifa 20... 1k games 1.1k goals, can\'t wait to try him in fifa 21',positive
+'Absolute beast',positive
+'Fucking beast for WL',positive
+'this guy is incredible ingame',positive
+'i have used him for 5 games now and he\'s much better than alaba he\'s just incredible',positive
+'Incredible Card, better than any other in the league right now',positive
+'This guy is incredible',positive
+'OMFG, hes incredible in game, feels like kante.',positive
+'Him and haaland incredible attack',positive
+'Best player i have used. He is so responsive and fast. He will go up in price when people realise how incredible he is.',positive
+'Mane is incredible',positive
+'This card is incredible, extremely quick, agile and has a very clinical finish',positive
+'40 gol in 25 games, division 4. INCREDIBLE',positive
+'Havenâ€™t tried Ter-Stegen this year, but this guy has been incredible! Always there to save!',positive
+'this guy is incredible in game',positive
+'This guy is so incredible for me. He always get the highest rating and the most successful passes of my team after a match. He can dribble, pass, and defend, it is just really funny to play with him.',positive
+'this guy is a goal machine , his timing when to make a run is hilariously good and the positioning is incrediblebetter than  because of his wk foot is too good',positive
+'Incredible player slap hunter and you have an amazing player',positive
+'What a player with finisher. Incredible for the beginning, omg',positive
+'He is incredible the best rb i have used so far. He allways catches his opponents and you can jockey with him super super good even though the balance and agility are a bit low. He wins 99\% of the tackles he makes easily the best rb on that.',positive
+'OP like last year incredible player BEAST!!!!',positive
+'This guy fits the meta so well. Incredible price for how good he is.',positive
+'What a Beast',positive
+'He is actually really good',positive
+'I’m in love',positive
+'Was a beast last season',positive
+'Insane Beast',positive
+'Perfect starter LB.',positive
+'best gold card in fifa 21',positive
+'He is phenomenal',positive
+'very good on striker, try him out guys',positive
+'Gooooood guy',positive
+'beast with hunter at cam, 3 games 4 goals and 3 assists',positive
+'he is so good',positive
+'the real goat',positive
+'beast for WL',positive
+'osimhen, take me by the hand',positive
+'flop incoming',negative
+'Good CB with engineer chemistry style',positive
+'good',positive
+'Good starter player',positive
+hmm,neutral
+'price prediction!?',neutral
+'Estimated price?',neutral
+'price predict?',neutral
+'Deserves more pace',negative
+'Not a card for me',negative
+'over rated player',negative
+'too over rated',negative
+'Stupid upgrade',negative
+'4 star weak foot deserved',negative
+'They just massacred my boy',negative
+'What a flop already',negative
+'He deserved 92',negative
+'overrated in my opinion',negative
+'Why no upgrade',negative
+'hes not good',negative
+'Should be 89',negative
+'Deserved 5* skills',negative
+'79 pace is a joke',negative
+'Way to overrated',negative
+'is a joke',negative
+'More aggression needed',negative
+Overrated,negative
+'Should be better',negative
+'Low low',negative
+'What a bad player',negative
+'50 in pace Max. He is slow and bad he couldnt even warm the bench in Bayern.',negative
+'Barnes better',negative
+overrated,negative
+'another overated English player',negative
+'I feel bad for this guy. Bayern ruined his career. They should have let him develop for another 2 tears before buying him.',negative
+'The disrespect ea did to him',negative
+'That is pathetic he should be 81+',negative
+'Heâ€™s fat',negative
+'Ea need to upgrade this man',negative
+'Stats are a joke',negative
+'should be 94 and balance 87',negative
+'really bad',negative
+'he\'s gonna be so heavy on the ball',negative
+'His sprint speed shouldnâ€™t be that low',negative
+'Should be 84 at least',negative
+'No 5* skill moves, unusable',negative
+'Compare him to llorente. Just a few stats worse than him.',negative
+'Worst transfer ever',negative
+'worst 86 card ever',negative
+'he deserved min 88',negative
+'His 95 card is horrible',negative
+'worst finishing then gold costa',negative
+'This looks so weird',negative
+'Should be 92-93',negative
+'-7! Are you mad!',negative
+'Pace 74? What a joke',negative
+'Unuseable now',negative
+'his shooting should be much better',negative
+Trash,negative
+'This dude was insane this season, EA did this man dirty',negative
+'Robben Robbed',negative
+'That was a joke',negative
+'Great baller but doesn\'t deserve 5 star skills moves',negative
+'He deserved a downgrade!',negative
+'Sooooo overrated',negative
+'72 pace is an absolute joke. min 85',negative
+'No way his 96 max 93-94',negative
+'We all dislike this card',negative
+'Too slow imo',negative
+'what a joke, why downgrade?',negative
+'He dont need another card',negative
+'Deserves 86 at LEAST with those stats, and MINIMUM 4* weakfoot.',negative
+'ea did him dirty',negative
+'He has 79 more defending than he deserves',negative
+'deseve better than 80',negative
+'Worst finishing in fifa history',negative
+'this is probably the worst rating this year',negative
+'Worst player of the 21th we missed the first place bc of him',negative
+'should be waaaaay faster',negative
+'78 balance makes him unusable',negative
+Overrated,negative
+'unusable in fifa sadly',negative
+'3*combo? Are Ea smoking? 4*combo is what he deserve.',negative
+'emberassing what ea is doint with the pace',negative
+'My man turned on the afterburners',negative
+'Didnt deserve this much of a downgrade, 81/82 is fair',negative
+'deserves an 82',negative
+'too bad',negative
+'deserved 80+pace',negative
+'wrong height',negative
+'As much as I like him, that 2 star wf is gonna hurt this card so badly',negative
+'78 rated are you mad',negative
+'Haha why did EA not do this to Kepa?',negative
+'Deserves 80 , he will be worldclass',negative
+'Gotta feel bad for him, hope he plays well this season.',negative
+'Deserves 99 of passing',negative
+'Deserved 80 ea......',negative
+Joke!!!,negative
+'Severely underrated player',negative
+'No way he has 2 star sm',negative
+'surely 73 pace is a mistake',negative
+'downgrade undeserved',negative
+'looool deserved a bigger downgrade',negative
+'Too low imo',negative
+'Overrated like every ajax player',negative
+'He deserved a downgrade, should be 80',negative
+'iâ€™m not disliking him bc i disagree with the rating, but bc of the sh*t jokes, and how bad he actually is.',negative
+'Too bad he got transferred',negative
+'2 gk in game before courtois , good animations for Neuer but he has a defect at fineese shots',negative
+'80 Pace bad',negative
+'He deserve 4*',negative
+Disgraceful,negative
+'Such a disrespect',negative
+'Deserved an upgrade wtf',negative
+'Donâ€™t see the point in this guy',negative
+'HOLY SHIT',negative
+'ea did him dirty with his pace',negative
+'30 shot unusable',negative
+'I already hate him',negative
+'So overrated',negative
+'terrible carta',negative
+'Are you kidding me? He was just terrible last year',negative
+'86 dribbling is disgrace.',negative
+'Oh no',negative
+'Oh no please no',negative
+'Deserves 5* Skills.',negative
+overrated..,negative
+'13 pace downgrade...',negative
+'Pretty overrated he gets destroyed in defense',negative
+'Deserves 4*4*.',negative
+'overrated, shit',negative
+unluckyyyyy,negative
+'mad overrated',negative
+'should be higher',negative
+Shame,negative
+'That passing stats are so wrong',negative
+'Should be lower',negative
+'2* wf very unuseable',negative
+'Undeserved upgrade',negative
+'not interesting',negative
+'They did him so dirty.....',negative
+'Deserved downgrade, he played an orrible season (just the Last part was fine)',negative
+'Absolute fraud, horrendous performance today',negative
+'Deserves to be 83',negative
+'He is so bad',negative
+'deserves 4* skill moves',negative
+'Deserves at least 76/77',negative
+'COMPLETELY OVERRATED',negative
+'3* weakfoot unplayable',negative
+'Wtf should be atleast 76',negative
+'Iâ€™m still buying him with the 3 star weakfoot and imma buy xavi even though they ruined his card',negative
+'Deserves higher rating',negative
+'He looks like a ghost',negative
+'Should be a lot quicker',negative
+'Should be at least 81',negative
+'Should be low gold in rating',negative
+'71 is disrespectful',negative
+garbage,negative
+'should be gold',negative
+'Should be 75 at least',negative
+'He deserved that 0 finishing',negative
+'Done dirty with that rating',negative
+'Dougie should be higher',negative
+'73 pace is a joke',negative
+'Deserves higher better stats',negative
+'they killed my boy',negative
+'75 74 is too low',negative
+'Deserves 4* skills 4* weakfoot',negative
+'Deserves higher rating smh',negative
+'So disrespectful to only give him a 75 rated card',negative
+'This is a joke',negative
+'It s a joke?? only 74???!!!',negative
+'this pace is so disrespectful',negative
+'Deserves at least 88 pace',negative
+'my man has been robbed',negative
+'Should deffo be higher rated. should have pace low 70\'s, his dribbling could be higher and his defending should be low 70\'s too. should be an 82 easy, especially his performances after lockdown. Booo.',negative
+'Should\'ve more passing',negative
+'Is this a joke? There is no way he can still be bronze',negative
+'should be 70 had a great end to the season',negative
+'Deserves higher!',negative
+'Deserves a bigger upgrade',negative
+'Deserv more than 78 i think',negative
+'what a disrespect to my boy',negative
+'Needs to be a gold card, at least 76 imo',negative
+'wrong rating, now is 60-65',negative
+'83 pace is disrespectfuldeserves at least 92 he is rapid',negative
+'Should be higher rated',negative
+'This a an absolute disgrace should be over 70, pace is no way near close enough, ea really need to fix up',negative
+Undeserved,negative
+'so overrated in Fifa just because of his meta model',negative
+'this guy is weaker than i am towards my crush',negative
+'Should be at least 83',negative
+'Should be a lot higher',negative
+'Heâ€™s been robbed, 75 at LEAST',negative
+'He deserves 80+',negative
+'Only 71?!',negative
+'should have 90 freekick at least',negative
+'deserves more dribling',negative
+'Should be 74 or 75',negative
+'Deserved higher. His shot stopping is on another level. 86/87. Kept us from fng much lower.',negative
+'should have more passing',negative
+'This rating is a disgrace.',negative
+'EA did him dirty',negative
+'He deserves 75 gold at least',negative
+'Disgusting ea',negative
+'disgraceful and undeserved downgrade',negative
+'him or malcuit ?',neutral
+'got him for 70k before price range fix. Fair to say I was lucky',neutral
+'Who else wants him in the otw pack?',neutral
+'Tips on how to link this guy with depay?',neutral
+'When to sell',neutral
+'got him ,never played him.is he good or bye bye?',neutral
+'good investment?',neutral
+'Should I sell or keep',neutral
+'chem style?',neutral
+'Him or Lewandowski (fifa not real life)',neutral
+'sell? hold?',neutral
+'Best chem style as a cm ?',neutral
+'Itâ€™s always when to sell and not how are you?',neutral
+'Sell now or wait until OTW',neutral
+'Already bought 30 of him',neutral
+'What chem style? Got him untrade',neutral
+'Those fucking panic sellers',neutral
+'Buy him and cudrado then switch ingame',neutral
+'Will he rise?',neutral
+'First day at the office and I\'ve packed him. Cant believe it!',neutral
+'anyone try using him as a box to box cm? i like his work rates',neutral
+'When should i sell, why is he dropping ?',neutral
+'When do we get our packs from pre buy?',neutral
+'Just get yuri',neutral
+'When to sell',neutral
+'Why is he dropping',neutral
+'him or adama?',neutral
+'when should i sell him',neutral
+'why does he not sell?',neutral
+'Him or adama and why?',neutral
+'What chem style',neutral
+'When to sell?',neutral
+'keep or sell?',neutral
+'buy him to trade',neutral
+'When to buy please??',neutral
+Chemistry?,neutral
+'him or Allan 83?',neutral
+'Just packed him and donâ€™t have market access:)',neutral
+'Will he rise?',neutral
+'Should I play Alaba or sell him?',neutral
+'keep or sell him????',neutral
+'Sell now or wait till OTW?',neutral
+'Does anyone think he will rise or will he stay at this price?',neutral
+'him or portu?',neutral
+'Engine or hunter ?',neutral
+'why so cheap ??',neutral
+'invest he Will Be extinct',neutral
+'Sell today or Friday?',neutral
+'Which chem? Anchor or Shadow',neutral
+'sell or wait?',neutral
+'Him or klostermann alongside Hernandez??',neutral
+'Him or klostermann?',neutral
+'Him or de jong ?',neutral
+'Should I sell now 74k?',neutral
+'will he rise ?',neutral
+'best chem style for him?',neutral
+'hey, when to sell? packed him, and really need the coins, thanks guys !',neutral
+'Keep or sell?',neutral
+'good on 7 chem?',neutral
+'whyâ€™s he so expensive he should be maximum 15-20k',neutral
+'People who believe to spread their hate on FUTBIN (let that sink in your mind) shouldnâ€™t be allowed on this app, nor should they be able to play FIFA',neutral
+'I have 57 of him',neutral
+'Will the range rise? When?',neutral
+'I bought 20 of his everton card I hope he goes extinct',neutral
+'him or gulacsi',neutral
+'Price prediction: 30k',neutral
+'Him and Klostermann',neutral
+'Him or Portu at ST in 41212',neutral
+'Him or Halldorsson?',neutral
+'Him or Matheus Cunha at cam both get full chem and would use both with engine',neutral
+'Price prediction??',neutral
+'price ?',neutral
+'so i packed this man in my welcome back packs he\'s 10k currently should i sell now or will his price rise later',neutral
+'I dread to imagine his price if he goes to united',neutral
+'Price tomorrow 2-3k',neutral
+'When to sell him?',neutral
+'his price will go up?',neutral
+'Packed him!',neutral
+'Price prediction?',neutral
+'Pack him today. It\'s good idea to sold him for 60k? Or his price will increase?',neutral
+'Just packed him? Do I sell or keep?',neutral
+'What do you expect his price to be on realise',neutral
+'quick reminder for all fifa players: Buy a controller and you can sell it for double the price in just 2 weeks. the reason? this cheeky inform ben yedder',neutral
+'How much is he?',neutral
+'Finisher guys... finisher. Chem styles have CHANGED.',neutral
+'New chemistry, diarrhea cool boost',neutral
+'lol people are giving him sniper... the chem styles have changed guys. sniper is baaaaaaaaaaaaaaaaaaaaaad.',neutral
+'chem style ?',neutral
+'Looks like an artist chem style',neutral
+'flashback to when Oakley typed nipple in the search bar, thats a real sbsd meme',neutral
+'When u get to far in career, and this the new Luke shaw?',neutral
+'I will come back here when he returns from his injury to be the best young player of Serie A.',neutral
+'hopefully we dont sell him, wouldnt make any sense at all',neutral
+'I hope we don\'t sell him tbh',neutral
+'I sell him for a good Price - 3.750.000 Coins :) (FIFA20) Please help me I will buy his 97',neutral
+'Someone tell abrahamovic money cant buy titles anymore. Russian Rat',neutral
+'I packed him!',neutral
+'I packed him from icons swaps and ngl he was trash for me so week',neutral
+'engine or anchor?',neutral
+'Nice I packed him',neutral
+'Bruhhh matthd just packed this guy',neutral
+'Packed him last year. He got me to 30-0',neutral
+'Castro packed him',neutral
+'I packed him',neutral
+'Him or bastos from lazio? Both 10 chem in a 4 man defense',neutral
+'Him or Correa',neutral
+'When do I sell???',neutral
+'I packed hin should i sold him or wait till to the first Werkend League???',neutral
+'imagine packing him',neutral
+'will he rise?too how much?',neutral
+'Him or bellerin?',neutral
+'Does someone know if his price is going more up or doe i have to sell him now?',neutral
+'got him in a sbc pack, keep him or sell him?',neutral
+'What chem style?',neutral
+'when to sell?',neutral
+'he definitely needs a chemistry style',neutral
+'When I want to put a shadow on him but the style is double the price',neutral
+'when to buy?',neutral
+'shadow or anchor on him?',neutral
+'Deadeye or maestro as centre cam?',neutral
+'Just packed what do I do?',neutral
+'Inform Incoming',neutral
+'Just packed him, sell or keep him till tuesday and then sell?',neutral
+'Price prediction?',neutral
+'inform hopefully incoming',neutral
+'Him or rashford??',neutral
+'When will he rise',neutral
+'Him or Lo Celso as a CF behind Kane?',neutral
+'Price predicted @ realese?',neutral
+'sell at 16k or wait',neutral
+'Sell now?',neutral
+'What chem style do I put if I’m playing him at cam?',neutral
+'deadeye or finisher',neutral
+'I just pack him now he is at 76k, Wait or sell ?',neutral
+'price prediction?',neutral
+'well a future star card 90 rated ea',neutral
+'I got him right now do i have to sale him now or wait',neutral
+'How can I snipe him???',neutral
+'Is he gonna be more than 100k',neutral
+'Should I buy my team now? Are players gonna rise during the global release?',neutral
+'When do i sell him?',neutral
+'Price prediction?',neutral
+'Him or aguero',neutral
+'When to sell?',neutral
+'I should invest on him?',neutral
+'Will his price keep rising ? 8.6k at the moment',neutral
+'i sell him for 15k',neutral
+'keep or sell?',neutral
+'Will he raise up ? Cuz i got him',neutral
+'him or richarlison?',neutral
+'Will easily reach 300k',neutral
+'will he rise?',neutral
+'Which Chemistry Style? Deadeye?',neutral
+'When to sell? Just packed this big man',neutral
+'Sell or wait?',neutral
+'Keep or sell?',neutral
+'keep or sell?',neutral
+'Him or Sommer for Buli Team?',neutral
+'TOTW incoming',neutral
+'price prediction?',neutral
+'deadeye or finisher??',neutral
+'Him or saint ?',neutral
+'Inform incomming.',neutral
+'inform alert',neutral
+'Inform incoming',neutral
+'What chem style',neutral
+'Marksman or Deadeye.',neutral
+'Give this man an inform',neutral
+'Inform incoming',neutral
+'Surely he Will get an inform.',neutral
+'Inform Incoming',neutral
+'inform coming?',neutral
+'Inform incoming',neutral
+'inform coming fair play to him',neutral
+'inform incoming should buy him or not?',neutral
+'Which chemistry Style? I use sentinel',neutral
+'inform incoming',neutral
+'inform incoming lads',neutral
+'Potential inform card?',neutral
+'Inform incoming for match against Brighton. 2 goals and 1 assist.',neutral
+'IF incoming.',neutral
+'Keep or sell??',neutral
+'500k futmas incoming?',neutral
+'powerhouse backbone or sentinel',neutral
+'Should I use an anchor on him or sentinel?.',neutral
+'If incomming',neutral
+'what chem? engine?',neutral
+'What chem style?',neutral
+'Him or Lewandowski?',neutral
+'Him or  Correa at RW?',neutral
+'Keep or sell??',neutral
+'When to sell ?',neutral
+'what chem style should I put him',neutral
+'When should i put him for sale guys?',neutral
+'Price range',neutral
+'him or semedo??',neutral
+'him or AWB?',neutral
+'give him special card',neutral
+'Him or can',neutral
+'Keep or sell?',neutral
+'he gets a flashback card',neutral
+'keep or sell ?',neutral
+'What a name',neutral
+'Hunter or sniper for RW?',neutral
+'When to sell',neutral
+'chem style?',neutral
+'him or dembele or sterling or rashford at lw?',neutral
+'Wait till Friday or send it today?',neutral
+'guys i just packed him what do i do plz help',neutral
+'Will the price go up?',neutral
+'Toty incoming...',neutral
+'keep or sell ??',neutral
+'If incoming',neutral
+'Can we have a special card of him plz',neutral
+'when to sell?',neutral
+'Packed. Not worth selling?',neutral
+'Slap a shadow on him',neutral
+'when to sell?',neutral
+'Inform incoming',neutral
+'CDM: Him or Partey?',neutral
+'Him or Pepe',neutral
+'sell now or wait',neutral
+'Chemstyle? Shadow sentiner or...?',neutral
+'future star incoming',neutral
+'keep him or sell for 70k before we get the game?',neutral
+'Which chemistry?',neutral
+'Why does sniper Chem style now improve shooting and physical?',neutral
+'when i  sell valverde',neutral
+'chem for cam?',neutral
+'him or baby?',neutral
+'price to rise?',neutral
+'Why his price range is 1000-19000?',neutral
+'when to sell?',neutral
+'Him on full chem or zakaria',neutral
+'When to sell? Just packed',neutral
+'him or Onouha',neutral
+'second or third inform',neutral
+'what chem style? Shadow? Anchor? Something Else?',neutral
+'keep or sell 57k?',neutral
+'In sold him for 72k... will his price go up?',neutral
+'Will he go up?',neutral
+'Seel or keep?',neutral
+'Will he go up in price next Friday?',neutral
+'Is he going to go up in price or nahhh? Keep or sell now?',neutral
+'Anchor or Shadow',neutral
+'Anchor or Sentinel on him?',neutral
+'Managed to snipe one at 100k.',neutral
+'Sell now or later?',neutral
+'Price on xbox is 16k till now but i think hes going up a lot',neutral
+'Sell now or wait for full release?',neutral
+'Bruh 11-200k price range',neutral
+'When should i sell him?',neutral
+'Should i sell him now?',neutral
+'price prediction',neutral
+'When should I sell him lads?',neutral
+'OMFG just packed . Should I sell NOW or wait till the game comes out?',neutral
+'Sell now or later?',neutral
+'Sell now or wait',neutral
+'when to sell him',neutral
+'Well I say keep for a couple of days. Yesterday he was 8.2k now he is almost extinct.',neutral
+'sell now or wait. packed him',neutral
+'Will his price go up? And to around what price?',neutral
+'Will his price go up and to what',neutral
+'Keep or sell now, just got him from sbc',neutral
+'Should I sell now or wait I have 3 of him?',neutral
+'Will price rise on release day?',neutral
+'Keep or sell',neutral
+'when to sell?',neutral
+'I packed him',neutral
+'When do I sell???',neutral
+'Him or Correa',neutral
+'I pack him,should i sell him?',neutral
+'sell or keep?',neutral
+'Sell or keep?',neutral
+'I packed him how much do you think heâ€™ll be when the full game releases?',neutral
+'why so cheap right now?',neutral
+'price prediction on release?',neutral
+'Price predictions ?',neutral
+invest,neutral
+'Just packed and hes at 60k as of rn when should i sell',neutral
+'when to sell? in a week when the game comes out?',neutral
+'Keep or sell ?',neutral
+'will he go up or down?',neutral
+'Just  a tip buy shadows now for 2k theyâ€™ll be 25k in a month',neutral
+'Packed him, sell or keep',neutral
+'Sell now or wait for the game to release....',neutral
+'Him or bastos from lazio? Both 10 chem in a 4 man defense',neutral
+'Him or Matheus Cunha at cam both get full chem and would use both with engine',neutral
+'Him or Portu at ST in 41212',neutral
+'him or Allan saint maximin in middle cam? His passing is better but that 70 stamina might kill him',neutral
+'Come on EA, activate the web app so I can buy him while he\'s 0 coins',neutral
+'when you buy kyle walker on wish',neutral
+'Money cant buy trophies dead team',neutral
+'not surprised wolves didnâ€™t buy him before city',neutral
+'Snipe for 10k',neutral
+'Did sniper and finisher get switched?',neutral
+'Sniped him for 10k',neutral
+'how much will he go for? I just pulled him',neutral
+'Whatâ€™s the best chemstyle for him?',neutral
+'Him with hunter (hunter now gives 10 finishing) or Portu with sniper? Both 10 chem playing RW',neutral
+'he definitely needs a chemistry style',neutral
+'Best chem style?',neutral
+'RB with 7 chem and Anchor, thank me later',neutral
+'What chem style?',neutral
+'Why is he cheaper than Sidnei rn',neutral
+'hey! should I keep or sell Vinicius Junior?',neutral
+'What chem style hunter ??',neutral
+'will he go extinct?',neutral
+'why now is just 2.6k?',neutral
+'I would recommend people to buy him now at full release you will get at least 50 60k for him',neutral
+'Price prediction and why? Help please',neutral
+'Should I sell him or wait?',neutral
+'just packed him what chem style would be best on him',neutral
+'Will his price rise?',neutral
+'him',neutral
+'If this man gets an inform I am deleting the game',neutral
+'when to sell?',neutral
+'What chem style for st',neutral
+'Just bought him for 10,750k',neutral
+'Keep or sell??',neutral
+'Should I sell him when the full game gets released?',neutral
+'what happened to sniper chem stile?',neutral
+'I can t buy him',neutral
+'Price prediction before first WL?',neutral
+'Paid 9k for him hope he goes up to 30ish k',neutral
+'Packed him in the free packShould i sell him now or when the game comes outPlz reply',neutral
+'Should i sell him now at 310k? Or will he rise?',neutral
+'will he rise from 5k?',neutral
+'Best chem style?',neutral
+'How much will he be when his price gets updated',neutral
+'When do I sell?',neutral
+'lol someone paid me 10k for this',neutral
+'Sell or keep',neutral
+'should i sell now?',neutral
+'buy him before his price goes up!',neutral
+'slap an artist on him and your sorted',neutral
+'Why 2.4K???',neutral
+'Chem style?',neutral
+'Why 10k',neutral
+'him and kamara op link',neutral
+'Will he rise?',neutral
+'Why 10k wtf',neutral
+'When to sell him',neutral
+'why he is 2k?',neutral
+'him and kamara=op link',neutral
+'him and kamara: op link',neutral
+'how much will he go for',neutral
+'When to sell?',neutral
+'Him or Diego Carlos??',neutral
+'price when game releases? surely he cant be 90k when the game starts',neutral
+'Why is he dropping in price so much',neutral
+'How much will he be when the game is out?',neutral
+'Sell or wait?',neutral
+'when should I sell?',neutral
+'Sell now or wait',neutral
+'Packed him from a gold upgrade',neutral
+'I just packed him, when should i sell?',neutral
+'Pace 84 passing 71 is a joke',negative
+'Deserves a 80 at least',negative
+'still cant finish',negative
+'The overall downgrade is fine but only 83 dribbling??? He’s like top 5 in take-ons completed',negative
+'Why the fucc it says that they are in the championship?',negative
+'How the fuck does he have 2 sm?',negative
+'Nick Pope has better skills',negative
+'how tf is he 2 star skill moves',negative
+'Mad how 72 pace for a RB is pretty trash',negative
+'stats = bad',negative
+'dirty Mike with a dirty card',negative
+'0 pace with powerhouse',negative
+'how does he only have 75 long passing, he has the highest long ball success rate (88\%)in the world from players with 50+ attempts, 2nd place is Toni Kroos with 87\%. Kroos had 93 long passing in FIFA 21. Dybala should have at least 85 long passing. Should also have more pace, like 87 pace, same acceleration, and 85 sprint speed.',negative
+'83 at least',negative
+'worst player to ever play for both Milan and Juventus',negative
+'Deserves way more',negative
+'should be 82 or at least higher than saint max',negative
+'Such disrespect',negative
+'Should be 85 at least',negative
+'75 strength is a joke',negative
+'is he fast enough for a starter team?',neutral
+'Price prediction for him?',neutral
+'can someone tell me if this guy will get a face scan ??',neutral
+'perfect link to zakaria',neutral
+'We sold him for 10M',neutral
+'What is this design?',neutral
+Price?,neutral
+'Thougt hé was banned from fifa',neutral
+'pls future stars',neutral
+'Is he wearing the juventus kit in the picture?',neutral
+'is this card meta this fifa? or low agility its a BIG problem like fifa 20?',neutral
+'Can see people put a hunter on him',neutral
+'Just another year that I’ll never be able to afford him',neutral
+'icon card design changed?',neutral
+'price prediction : 70k',neutral
+'Sniper or engine',neutral
+Shadow,neutral
+'Link to dubravka',neutral
+'Price prediction?',neutral
+'Green link to destroying Liverpool',neutral
+'90 rated in every position with guardian',positive
+'Nice card to start with a BPL squad.',positive
+'Best ever keeper',positive
+'him and moukoko will be awesome',positive
+'Cant wait to get him on my starter team again',positive
+LEGEND!!!,positive
+'The best left back to ever have the ball at his feet. Used to watch his games, his passes from distance were so accurate. A real inspiration!',positive
+'remember fifa 17 when his first IF was an absolute beast.',positive
+'this card was soooooo good he will definitely be my first icon purchase',positive
+'with catalyst he would be a fun player to use as a assister cam',positive
+'Icon card',positive
+'Fifa 18 legend',positive
+'Welcome to my starter team',positive
+'He played amazing last season',positive
+nice,positive
+'big talent, 7 goals and 7 assists for hoffenheim only in 2020',positive
+'in starting team he will be OP !',positive
+Goat,positive
+'slap a backbone on him and play him everywhere',positive
+'Reinier Jesus what a silver beast',positive
+'Deserves a lot more strength and pace.',negative
+overrated,negative
+'4 star skills what a joke',negative
+'Deserves more. Consistent beast for Burnley, scoring crucial goals year in, year out.',negative
+'confused player',negative
+'flop coming',negative
+'Only 80* passing, imo that’s very unfair.',negative
+'too high',negative
+'Stupid, wasn’t even close to henry',negative
+'Should have 5 star weak foot',negative
+'Deserves a better rating',negative
+'this should have been 94 or 95 for his prime, one of the best in his time',negative
+'He deserved at least 81...',negative
+'Robbed of a TOTS',negative
+'Should be a 85 or at least 84',negative
+'They did my boy dirty :(',negative
+'deserves 5 wf for sure',negative
+'Deserves more',negative
+'Should’ve been 83 tho',negative
+'Should have 5* weak foot',negative
+'Best of history no debate.',positive
+'Good card',positive
+'insane for my starter team last year. even when i got i still kept this guy and put him at LAM.',positive
+'Cheap beast',positive
+'he actually seems playable',positive
+'Player with most shot power. Cant wait to use my bootleg Roberto Carlos',positive
+'best Irish player ever',positive
+'Im still gonna use him',positive
+tank,positive
+'i need this card',positive
+'Best base icon card along with Eusebio',positive
+'92 finishing WOW totally deserved',positive
+'An absolute beast of a center mid',positive
+'Will probably be one of the most used cards in week 1',positive
+'not even that bad',positive
+'The Best Player in FIFA',positive
+'He Better fit the meta I swear',positive
+'gonna be amazing again',positive
+'Still looks good with shadow',positive
+'Good card',positive
+'sniper or marksman?',neutral
+'Hes faster then gnabry and sancho? Really?',neutral
+'First comment in him',neutral
+'how is he 78 rated with those stats?',neutral
+'First on this card.',neutral
+'3 star skills',neutral
+'How is he still above 80 rating?',neutral
+'Welcome to Chelsea',neutral
+'No way, bundesliga is so strong in fifa 21. imagine zakaria, haaland, can, kloosterman, etc... in one team',neutral
+'Swap him and alaba... Thank me later',neutral
+'Welcome back home',neutral
+'Perfect link with ederson',neutral
+'Finally french player',neutral
+'Barnes Barnes Barnes',neutral
+'If he moves to Villa he will cost so much. I hope he stays at Bremen',neutral
+'Price prediction?',neutral
+'Like to get him in the first pack',neutral
+'Hes coming to villa mark my words',neutral
+'Ah shit here we go again',neutral
+'price predictions?',neutral
+'Still shit',negative
+'THIS GUY IS TRASH IN REAL LIFE',negative
+'deserves 4* skill moves',negative
+'Not as good',negative
+'deserves more, atleast 78',negative
+'COMPLETELY OVERRATED',negative
+'Passing should be lower. Defending should be too. He could have more pace because he isnt super slow. High 70s. Want him gone from the club, love the guy but he just isnt good enough.',negative
+'68 pace? ahahaha what a joke',negative
+'what a meme. Deserves a bronze card.',negative
+'not even a gold?!?!?!? ITS A DISGRACE, ITS FUCKING DISGRACE',negative
+'Should be a lot quicker',negative
+'Should be low gold in rating',negative
+'3 weak foot stars. 4 skill stars. This is a good reason for not buying. What the fuck.',negative
+'Only 78 Pace?? Deserve minimum 85 Pace',negative
+'Worse stats than emre can',negative
+'Deserved 74',negative
+'71 is disrespectful',negative
+'should be gold',negative
+'WHAT 3* 3* its a joke ea',negative
+'Deserved 75 imo',negative
+'I’m still buying him with the 3 star weakfoot',neutral
+'future star',neutral
+'I packed him from icons swaps',neutral
+'engine or anchor?',neutral
+'good price for me',neutral
+'Sentinel or anchor?',neutral
+'What are Xavi’s weak foot and skills?',neutral
+'His objectives card last fifa was op',neutral
+'Let’s keep this card a secret',neutral
+'Future stars incoming...',neutral
+'To anyone in the world who reads this I hope you have a nice day or night!',neutral
+first,neutral
+'Future star',neutral
+'Price prediction?',neutral
+'He looks like a ghost',neutral
+'I hope we dont sell him tbh',neutral
+'What a card!',positive
+'Beautiful guy',positive
+'The goat',positive
+'Greatest English player',positive
+'Nice starter card!',positive
+'The Goat got an upgrade',positive
+'Best starter cdm',positive
+'Underrated card',positive
+'Love you chris',positive
+'secret starter gem',positive
+'great cb for the first starter team',positive
+'so underrated',positive
+'Best player in the game, guaranteed elite finish if you use him. Well deserved upgrade too',positive
+'Top Player',positive
+'another op atalanta player',positive
+'Underrated GOAT',positive
+BEAST,positive
+'Incredible stats',positive
+'Ahhh... finally a left winger for my cap verde islands team',positive
+'best sup ever used in fifa',positive
+Disrespectful,negative
+'71 pace/dribling is a joke',negative
+'Silver card?? And 38 pace :(',negative
+'Some disrespect to the lord by here',negative
+'why downgrade man :(',negative
+'Soo bad',negative
+'How he doesnt have 5 star skills I will never know',negative
+'Soo overrated',negative
+'Ahahaha downgraded',negative
+'done him dirty',negative
+'Deserves 75 at least',negative
+'Robbed. Should be 80',negative
+'79 pace is joke next year after good season in Championship he will get at least 90 pace',negative
+'Why downgrade. Played really good',negative
+'i am literally crying',negative
+'He deserved a +2 at least.',negative
+'Downgrade? EA are you MAD?',negative
+'This guy looks nasty',negative
+'78 pace!!! jokes',negative
+'too low for goat',negative
+'Him and st juste',neutral
+'Welcome Gunners',neutral
+'Old like a Wine',neutral
+'Green link to twin sister',neutral
+'Totw confirmed',neutral
+'Birmingham will go up this season',neutral
+'welcome to Porto',neutral
+'I packed him',neutral
+'Him + St. Juste + Malong',neutral
+'He’ll come watford',neutral
+'He has 3 toes on one foot',neutral
+'Storyline card incoming...',neutral
+'next season he will be 79',neutral
+'future star incoming',neutral
+AIDOO,neutral
+'Is he a Leeds player again',neutral
+'Welcome to Ac Milan',neutral
+'here before perfect link with koke comments',neutral
+'imagine not knowing tomori personally',neutral
+'The next miyaichi?',neutral
+'Deserved 75',positive
+'Fair rating, he was incredible against Besiktas',positive
+'I love you',positive
+'omg beast silver RB',positive
+'The english gullit',positive
+'My boy is op again',positive
+DOMINANCE,positive
+'Wow he is even faster this year',positive
+'The best in the World Hasensio',positive
+'the goat has had a pace upgrade!!!',positive
+'What a hero. His football story is heartwarming',positive
+Deserved,positive
+'good starter cb',positive
+'This guy is sooo fucking underrated',positive
+'Most underrated Eredivisie player',positive
+'Looks good',positive
+'Favourite player',positive
+'Welcome to my starter squad',positive
+'What a card',positive
+'slap a catalist on hip and you have a brazilian gullit',positive
+'Welcome back',neutral
+'LINKS TO MATA',neutral
+'When is the web app out?',neutral
+'God link with Clinton Mata',neutral
+'packed him in a 45k',neutral
+'Him or Correa at RW?',neutral
+'Him or Lewandowski?',neutral
+'its crazy how long it takes ea to change some numbers for the price range',neutral
+'what chem? engine?',neutral
+'What chem style?',neutral
+'Keep or sell?',neutral
+'Sold him for 1K yesterday',neutral
+'Why is his price decreasing',neutral
+'i packed him now, i should sell or wait?',neutral
+'will shadow be max 5000k or higher?',neutral
+'2 goals - 3 assists IF COMING 100\%',neutral
+'100\% TOTW incoming got a rating of 9.7',neutral
+'if incomingggg',neutral
+'If incomming',neutral
+'him or benarek IF and what chem style if so?',neutral
+'When should I sell ?',neutral
+'him or nacho? and what best chemstyle?',neutral
+'i canttt snipe himm',neutral
+'inform incoming',neutral
+'Fuck off EA 75?',negative
+'Deserve 5 star skillz',negative
+'So bad',negative
+'should be gold!! up the royals',negative
+'he deserves 5* skill moves',negative
+'What a slut',negative
+'Useless card when telles come to united',negative
+'Not worth',negative
+'Worst GK Ive used',negative
+'Should be 90',negative
+'Dont buy this trash',negative
+'Trash card',negative
+Disgrace,negative
+Shit,negative
+'Should be 70 rated',negative
+'So overrated',negative
+'deserved 80 or more',negative
+'Chiellini is really bad btw don’t buy him!!!',negative
+'Should be gold',negative
+'Hate this man',negative
+'Better than Mendy 100\%',positive
+'I love you',positive
+'7:2 WHAT A BEAUTIFUL GAME!',positive
+'This card is incredible, extremely quick, agile and has a very clinical finish',positive
+'Thats my first Walkout in Fifa 21. nice',positive
+'Absolute beast!',positive
+'this guy soooooooooooo good',positive
+'My fifa 20 club legend!',positive
+'Amazing! Cb for 4 months at least... Thank you ea!',positive
+'Offensively probably the best LB in the game (haven’t tried Mendy tbh). At this point of the game he is unstoppable by any other defender',positive
+Underrated,positive
+'he‘s a beast in rl',positive
+'the best',positive
+'beast for starter',positive
+'This card is so OP, through balls and heavy touches with this guy is basically unstoppable.',positive
+'He is good.',positive
+'40 gol in 25 games, division 4. INCREDIBLE',positive
+'A goal machine. Gets into open space so easiliy and his cross goal shooting is immense. Which fits the shooting meta this year now that near post shots have been nerfed. Easily 250k or so with release and OTW coming and him being out of packs. If you want him for your team make sure to snap him up soon.',positive
+'This guy has been on popular top 5 since the game release.',positive
+'a beast, green link with Bamba and Gelson Martins, im in love',positive
+'IF incoming, 4 goals against Hertha BSC.',neutral
+'Price prediction?',neutral
+'Wtf 10k atm',neutral
+'Sell or keep? Not many on the market',neutral
+'Archor or shadow?',neutral
+'Same shit different year',negative
+'Matip is better than this overrated trash',negative
+Clown,negative
+'What is this he should be 69',negative
+'deserves 92',negative
+'He’s so good OMG',positive
+'This card is the best card i ever used what a beast',positive
+'So good will be my striker for a good while',positive
+Goat,positive
+'beast feels a lot quicker in game',positive
+'5 start weakfoot hahaha no way',negative
+'Damn this guy sucks wouldn’t recommend',negative
+'This one to watch is going to be dirty',negative
+'i tried to snipe him for like 20min i had no chance...',negative
+'Get out of my club',negative
+'why such a big downgrade? he was one of the best centrebacks last year...',negative
+'Impossible to snipe',negative
+'Most overrated player in the league',negative
+'not that good ingame imo, would not recommend',negative
+'This card isnt even that good. Youre paying millions of coins just because of the name',negative
+'overpriced af ik hes sick attacking but way too much',negative
+'the most glitched card in the game.....',negative
+'Not worth',negative
+'Sell him',negative
+'i canttt snipe him',negative
+'Penandes back at it again with Tottenham after only 30 seconds',neutral
+'IF incoming, 4 goals against Hertha BSC.',neutral
+'Wtf 10k atm',neutral
+'is he good too with 7 chem?',neutral
+'Everyone like and comment F for the fn legend',neutral
+'Like if bayern transfers have been horrendous recently',neutral
+'83 my fucking ass man finally got exposed, average at best, 80 rated at most',neutral
+'Can someone pls let me snipe him',neutral
+'imagine his card with 90 pace and 5 star Skills...',neutral
+'Dont compare this duo with varane and ramos again',neutral
+'LMAO penalty again! classic united...',neutral
+'His passing is too low, but his pace is too high lol',neutral
+'Who is valverde?',neutral
+'Michel Gondry',neutral
+'This card with a finisher chem style (previously sniper) is insane.',positive
+'strong link to liverpool but ngl deserves this upgrade',positive
+'his finesse shots are on another level',positive
+'class CAM, not got the pace for ST imo but he doesnt feel slow',positive
+'Sissoko is still sissoko',positive
+'Must buy guys',positive
+'Packed him in the web app.the first time I like the game',positive
+'With Shadow he is a pretty solid RB',positive
+'hopefully he gets an IF',positive
+'Didn’t deserve a downgrade',positive
+'Finally sniper him',positive
+'Best card in game no joke',positive
+'Looks sick with a shadow',positive
+'Don’t sell, if Haaland next week, decent green link',positive
+'At this price, buy him? Market is crazy',neutral
+'Hes dropping a lot why?',neutral
+'I packed him untradeable from an objective pack. Gg EA',neutral
+'Him or Bernardo Silva as a Ram. Cant use at Cam because I already have Kdb untradeable. Formation 4231',neutral
+'When’s the best time to buy lads?',neutral
+'Him or Goretzka on CAM from 4231??',neutral
+'Can i play him lm/rm?  Not too slow?',neutral
+'Will he drop lower?',neutral
+'Guys any recommendations about super subs? I actually have dan James and promes. Any other good super sub?',neutral
+'Worth 100k or no? How is he in game?',neutral
+'are the rumours true? is he good?',neutral
+'I packed him. Should i keep or sell?',neutral
+'epic name',neutral
+'Who is the best Keeper in LaLiga?',neutral
+'Won first 8 games of WL then EA decided to put me in the same pool as elite 1 players and proceeded to lose 7 in a row, the matchmaking this year is definitely broken.',negative
+'Top 3 most garbage players in fifa',negative
+'you donkey',negative
+'Leak looked much better sadly',negative
+'Too expensive',negative
+'Fucking horrible',negative
+'Why do these cards still exist? They are just useless',negative
+'such low agility. isnt it bad ? last year low agility defenders were terrible, they turned like trucks and agile attacker would easily get past them',negative
+'I copped 3 Diego Carlos’s for 29k looking to sell for 35 today. Now he’s 26.... unfortunate.',negative
+'worst player hes a ghost in pitch no doubt why is he 3k dont buy him de jong and valverde way better he never shows his stats',negative
+'Just scored 2 and assisted 1 against a 6 million coin squad in WL. I love this little b*stard.',positive
+'He was opening in +75 pack for me, and I was trying him in game. Well, he surprised me with his reaction and good positions, saved me so many times in WL. Good choice if you don’t have any other option.',positive
+'Ok how is he on fire.  TOTGS Incoming',positive
+'So fun to use, his dribbling honestly feels like 90+ and he’s got a wicked shot too. Don’t sleep on him.',positive
+'16 goals in 5  matches... This dude is on fire!!!',positive
+'This man is a legend',positive
+'buyed him for 346 k friday nice',positive
+'10K is an insult to how good he is',positive
+'Absolute Beast! Love him!',positive
+'Got him untradeable, let’s gooo!',positive
+'Slow beast',positive
+'Bought him yesterday for 755k. Hes a beast. 14 games, 28 goals (FUT Champions & Div3).But his price keeps dropping day by day. Will this trend continue? What do you guys think is the best time to sell and rebuy him?Im new to market observation and would be thankful for an advice on him. Thanks in advance.',positive
+'Deserve to get an inform tomorrow',positive
+'Put hunter or catalyst on him and he’s just like old times',positive
+'This card is insane for 3k',positive
+'i hate piemonte shitty FC but i love Alvaro',positive
+'This guy was solid for me in fut champions. Hes one of the best in game with a sentinel.',positive
+'This guy was killing me twice on WL. So if you cant beat them... I got him for the rest of WL as super sub (him LAM, Mane as St). He delivered in 20 games 12 goals at 17 assists. Very direct movement, finesse is great and always smart posituones. Shot felt much stronger than card stats',positive
+'He is a brick wall and alisson is unbeatable played them in wl and jesus christ he just bodies everyone and alisson just saves everything',positive
+'After 160 Games with him i have to say he´s decent. Sometimes he really does make incredible saves that i didnt expect and that saved me but on the other hand he is letting a lot of easy shots in.I played him with glove. In the end i bought Oblak for my last WL games because i couldnt stand Mats anymore, he just made it way to easy for the Opponent sometimes and i want someone i can rely on.(Ps Oblak is nearly the same, but faster ans he catches more rather than just blocking them)',positive
+'HES THE BEST CAM IN THE LaLiga!hey Zwe fans btw',positive
+'He is really good',positive
+'Cardiff City legend',positive
+'Just played my first ever Weekend League and Promes was dominant. Finisher and free-roam made for a great combo.',positive
+'I dont understand why hes so cheap. He is by far the best cam in la liga',positive
+'Soucek is an absolute god in any central mid field position and he can play in CB as well. He is totally op with an anchor on. He must be one of the best players for that price I have ever used.',positive
+'Best keeper in game, I don’t have him but played against him and stopped all.',positive
+'In game he feels very strong and assured on the ball.',positive
+'With Hunter he‘s an absolutly beast as a striker!',positive
+'i have made this account special to comment about this hidden gem..ive tried a lot of cbs including eder militao but this card has to be in top five cbs in game except icons...and is f**ing cheap..saved my ass lots of times!!',positive
+'he’s so good. he scored 26 goals against my disabled brother with no hands on his debut',positive
+'Best 80k ive spent so far defo worth copping',positive
+'Not sure why this guy is so cheap. Hes been great for me in game. Also, HES THE ONLY NON ICON WHO HAS 80+ PACE, PASSING, DRIBBLING, AND DEFENCE',positive
+'SO GOOD WITH SHADOW, steal for 3.5k tbh',positive
+'I really hope I get him in my red picks :(',positive
+overpriced,negative
+pee,negative
+'These cards are so useless',negative
+'Worst GK ever',negative
+'this card is a shit,only rats use that',negative
+'I hate these cards',negative
+'Absolute steal',negative
+'He deserves 74 pac at least',negative
+'This is joke',negative
+'Not like last year',negative
+'a smooth decline',negative
+'why do cl cards exist bc they do literally nothing, I think in fifa 19 they were one rating upgrade but now they are absolutely useless',negative
+'he is shit for me, he cant catch easy balls and throws every ball behind himself so I lost much stupid goals',negative
+'Should be 70+ all stats',negative
+'Not as good as he should be, according to Card and price',negative
+'Past it',negative
+Dickford,negative
+'Better than kepa',negative
+'WHY EA',negative
+'Him Or alaba?',neutral
+'how good actually is he in game?',neutral
+'Him or sancho?',neutral
+'Why are these more expensive?',neutral
+'untradeable alba or tradeable mendy?',neutral
+'Him or Portu?',neutral
+'Do I wait to sell',neutral
+'Best chem on this man?',neutral
+'Shall I use him alongside Pogba as a CDM in 4-2-2-2? Advise please',neutral
+'Are him and kante good as CDMs together in a 4-2-3-1?',neutral
+'Hello! Invest in Odriozola, because el clasico will come in marque matchups! He will rise to 2k!',neutral
+'Him or de jong as a cm in a 442',neutral
+'When to sell?',neutral
+'will he continue to drop? when should i seel him? ty in advance',neutral
+'Is he good at CAM? if yes, which chemistry style?',neutral
+'investment gone wrong anyone?',neutral
+'Who is here after his goal?',neutral
+'why he isnt rare having almost 99 of pace and 80+ of dribbling? just curious',neutral
+'manfred starke is such an epic name',neutral
+'He good at cam in 4231?',neutral
+'I hate this, I literally bought him 12 hours ago for 382 and thought I got the deal of the century',negative
+'Overpriced',negative
+'Every fucking time I think I got a steal, the goddamn prices reduce. This is just so fucking absurd, it’s beyond me. Got hazard for 91, now he’s 84; Aguero for 77, now he is 71, Dybala for 59, now the fucker’s just above 50, etc. Ideally, I personally (Div 6/7) shouldn’t even be having these kind of cards just in the 3rd week. The game is getting fucked gradually. People will have dope squads so early on, there won’t be much left to improve. EA will have to come up with promotions very quickly. If the game continues at this trajectory, which I hope it doesn’t, then it’ll be dead by the first couple months of the new year, if not even earlier :(',negative
+'Bruh',negative
+'Beast',positive
+'He is so fucking good bruh',negative
+'I think he is a beast and he kept all of them in his back pocket. I dont even have a chemistry style currently equipped. I use him with Rudiger in the back. I highly recommend getting him because he is a cheap beast.',positive
+'Most broken striker in the game he’s so good',positive
+'Like to get him in your red picks',positive
+'when i tell you that the man is an animal,he has played 50 games for me and has 93 goals n 22 assits, the man is banging in nearly 2 a game or if he doesnt score in one game the next match he will definitely make up for it by bangin in 5 or 6, i think he has good strength he does cut in behind the defence and causes problems, he is turnin people inside out, my only thing that i find a problem is d 3* weak foot, sometimes he misses on his left peg but 95% of the time the man gets in to the right areas and he is a game changer my overall review9.2 out of 10',positive
+'He werent good for me, but maybe Im just shit',negative
+'Hes so bad that Lampard decided to bring cech out of retirement to play in their premier league squad as an emergency keeper',negative
+'Every team I play I see this piece of shit',negative
+'He couldn’t save a shot even if he tried',negative
+'When you order Thomas MUllers card on wish...Oh wait, it’s his actual card',negative
+'1 star weak foot very bad',negative
+'Good at CAM ?',neutral
+'Who else is here cuz of the champions league game?',neutral
+'When should I sell?',neutral
+'When to sell?',neutral
+'He good for trading right now?',neutral
+'Packed him tradeable and unreadable',neutral
+'How bad',negative
+'PURE GARBAGE WATER.',negative
+'he doesnt deserve such a shit defense line',negative
+'RAT LEADER',negative
+'Don’t buy this shit fucking card, im a div 1 player and all he does is go forward and leave gaps even on stay back he’s such a mong and even when he does get back he can’t do shit with 39 strength, awb on 7 chem10x the player',negative
+'There aren’t enough words to describe how shit this guy is. Misses chances for fun, work rates are negative 1000, stands still while I wait to pass to him but he doesn’t go, and fails to do skill moves 99.9\% of the time despite the exact inputs working with the rest of my players. Enjoy the discard pile, most piece of garbage player I’ve ever had. Single handedly cost me several weekend league games because I always subbed him in and despite him failing I always kept hope but now I’m just done. If you’re thinking about picking him or bloody Pickford to use as an attacking sub tell Jordan to lace up his boots because ASM will never be near my club again after consistently putting in the worst performances I’ve ever had the displeasure of watching in this shit show of a game that is fifa 21, aka fifa 20 version 2.0',negative
+'he is shit',negative
+'should have 5* skills but 1* WF',negative
+'I though he was shit',negative
+'a steal at this price!',negative
+'Higher rating than Soyuncu, Ea is a joke',negative
+'This guy is a stupid cunt',negative
+'worst keeper on this game',negative
+'if kepa is 82 he MUST be 85.',negative
+'This Guy sucks',negative
+'He’s not the fastest cb in the game',negative
+'this **** is probably the worst keeper i have ever used.',negative
+'he is so shit',negative
+'76 pace is a joke',negative
+'shit flop',negative
+'wich chem style? I have it whit Glove and let me a lot to desee, and whit cat have low saves, basic the best?',neutral
+'Anyone tried him as a CAM ?',neutral
+'Is he better than gold klostermann?',neutral
+'Can I use him CM?',neutral
+'What chem style do I use?',neutral
+'Should I buy him to replace davinson or buy kante to replace wijnaldum',neutral
+'safe investment for Joao Felix POTM',neutral
+'Can he play st? If so what chem?',neutral
+'Glove or basic?',neutral
+'Keep or sell',neutral
+'why is he so cheap?',neutral
+'Price prediction for rttf',neutral
+'best Chemie in LF ?',neutral
+'just packed him, what chem style is best for him',neutral
+'I have his IF and packed his gold card untradeable Should i sell his IF and just play with his gold?',neutral
+'What chemistry style should I put him?',neutral
+'GLOVES omg don’t tell anybody.',neutral
+'Fits perfect in my french squad',neutral
+'Could be objetive',neutral
+'Catalyst for central cam?',neutral
+'I play him like every game and he makes crazy save after crazy save. Looks insane against me atleast',positive
+'I. Love. This. Guy.',positive
+'Insane at CB',positive
+'best super sub for me i dont understand htf he scores every time i sub him after 70 min looks like he plays need for speed',positive
+'Favourite silver card so far. Hope EA releases a special version like in Fifa20',positive
+'Played against them the best GK i ever seen on This fifa',positive
+'Best player I’ve used this year put him at CAM he is unreal, lost over 100k on my team this weekend just the way the market is this year',positive
+'Been using him for the silver totw objectives and I gotta say hes a fantastic card, great option for cdm',positive
+legend,positive
+'guys this player is so op you cant imagine it he scores from every where just to tell yo i never scored from the outside of the box in fifa 21 but with crespo i can score with the both feets no matter th distance and also his att positionig is amazing the best so far dont know why hes so cheap he has to be 1 mil minimum i played with him 100 matchs and i scored 156 goals bilieve it or not i highly recommand him',positive
+'pros say his the best LB in the game over icon',positive
+'Holy smokes, this guy is absolutely insane, main reason I got my first ever Gold 2 finish this weekend! Seems like he can get save every situation, especially by penalties. He is so big that he covers the whole goal. 10/10 recommend',positive
+'Anyone else has the feeling they made him better? I had him in Drafts and was amazing.',positive
+'Best LB I’ve used this year. It’s RAPID fast, intercepts are OP and scored a few cheeky goals with him. Passing is also consistent. Only issue I’ve had is stamina can be a bit of an issue around 70th min',positive
+'I like a lot the way he plays, great dribling passing and shooting, big future for him',positive
+'Best supersub in game',positive
+'Tried many strikers  but still keep going back to Ben Ketser. His finising from all angles is just crazy, and his turns also.',positive
+'Best La Liga keeper hands down!',positive
+'On such good form',positive
+'three weeks in a row in my team i see him sitting for more month in my team best card i tried this year',positive
+'Pretty unplayable at ST',negative
+'he is not as good as everybody say hes not respondive slow and hes tackles are fucking shit',negative
+'So shit, he thinks he is Ronaldo scoring a hat-trick with three pens. Also, Varlencia prob bought VAR this game.',negative
+'he isnt what you expected',negative
+'Bad Player in Fifa, so many mistakes',negative
+'Biggest clown IRL',negative
+'Courtois is just shit at saving penalties',negative
+'Probably the worst striker in the game',negative
+'Big drop incoming',negative
+'Too clunky for me at cam with hunter',negative
+'he is slow and lazy',negative
+'Shittest gk in this Game',negative
+'straight trash',negative
+'He is a good player, but too slow when he gets the ball',negative
+'Update killed him',negative
+'Should be an 80 and a rare! What a shambles',negative
+'hes so bad, him and Valverde cost me Gold 1',negative
+'Wth 2* weak foot did he lose a leg or smthng',negative
+'Worst GK ever',negative
+'He’s so clunky',negative
+'Is he good in game ? Is he worth it',neutral
+'Chiwell: 2 goals 2 assists (4 games)Firminio :2 assists 1 goal (7games)',neutral
+'First comment',neutral
+'Him or son at 7 chem?',neutral
+'Him and sissoko at 4-2-2-2 ???',neutral
+'When to buy',neutral
+'Will he drop more?',neutral
+'Is he better than Gómez? Thanks',neutral
+'Is his agility and balance a problem ?',neutral
+'Hunter, Hawk or Finisher?',neutral
+'Best gold keeper in the game?',neutral
+'Best time to buy?',neutral
+'Him or Ballack 86 ?',neutral
+'Where is cavani?!',neutral
+'Is the stamina a problem on this card?',neutral
+'will he go back up ?',neutral
+'How good is he cm ?? I need him to push forward e we it’s control ?',neutral
+'I just packed him.',neutral
+'Him podence or taison?',neutral
+'Please join Madrid Im tired of Varane',neutral
+'Using catalyst on him, absolutely beast',positive
+'When will he drop?',positive
+'Better than pope',positive
+'Best ZM Goldcard. Beast',positive
+'Playing for Germany international! Rising talent!',positive
+'Fucking beast, trust me, with shadow his pace is insane, he is a german gullit. But the thing I love most is his passing',positive
+'Best CB in game, no cap.',positive
+'This guy is so good for me',positive
+'This Guy is Insane ingame!!!',positive
+'still op',positive
+'So underrated',positive
+'so good to bring off the bench late in games. Fast, agile and good finishing',positive
+'Cruyff is so so damn good.',positive
+'Holy f*ck he’s so good',positive
+'Best keeper in the world',positive
+'Very good player',positive
+'Free kick god',positive
+'Still amazing finished gold1 with him',positive
+'Best gold card cdm in the game',positive
+'That’s a ridiculous goal',positive
+'Rip to the goat of the beautifull gam',positive
+'It can’t be real... rip legend',positive
+'I pack him from base icon pack and he looks insane, score all that you shoot, is fast and has a good agility',positive
+'Guys I packed him out of my base icon pack woop woop! Is what I thought happened until I woke up with sticky sheets',positive
+'Rest In Peace legend',positive
+Underrated,positive
+'Rip legend',positive
+'Packed eusebio in my first icon pack - can take my retirement now',positive
+'Im just saying this guy deserves a winter upgrade if he keeps playing like this he should be like 84 rated. And no I’m not a man u fan',positive
+'R.I.P to one of the greatest',positive
+'Let’s take a moment and think about how this man changed soccer. Pele and him changed the way the game was played. We should thank him and he’s in a greater place right now',positive
+'RIP... BUT WE KNOW, THAT LEGENDS NEVER DIE',positive
+'PLEASE PUT THIS LEGEND IN ICON SWAPS',positive
+'Got a feeling they nerved him, he was unstoppable few weeks ago',positive
+'So fun to play with as a false 9. Creates, good at holding the ball up and a brilliant finisher. Sold my team in a rage after 5 wins from 10 in WL, changed tactics and won 9 from 12. He was the star of the show.',positive
+'he is so good imo try him',positive
+'This card with a hawk is better than his mid icon tbh',positive
+'without a doubt the best player to have ever played the beutiful game',positive
+'Like if you got this monster in the base icon SBC!!!!!!! Literally crying for happiness',positive
+'Packed this beast',positive
+overpriced,negative
+'annoying mf',negative
+'He is soooop shit and moves like a truck, just discard',negative
+'stupid community',negative
+'Dalglish baby is better',negative
+'Can anyone explain to me why this card is 1 millions coins? The stats are pretty weak.',negative
+'Sif Ollie is much better and cheaper. Trust me',negative
+'fuck everyone who’s trading with him',negative
+'who ever takes advantage of his death to make profit should khs',negative
+'Cant believe people are trying to profit from him, disrespectful',negative
+'Go fuck yourselves if you’re trying to price fix him',negative
+'If you profit from someone’s death you have a serious problem',negative
+'crespo is better',negative
+'only 84 ball control, have u seen this mans touch',negative
+'Lmao shite card rip to however packed him',negative
+'Disgusting that his price has gone up due to his death',negative
+'To be fair to him.. He should have more agression.',negative
+'That’s a big L if you got him',negative
+'He’s been robed of an inform',negative
+'for fuck',negative
+'Him or baby figo for cam?',neutral
+'Can he play CM on get forward in a 41212(2)',neutral
+'Sell now that Icon sbc is out and his price is inflated, or hold to see if he rises more?',neutral
+'Icons never die',neutral
+'What’s the max price that these 85 cards will reach?',neutral
+'Buy now or tomorrow',neutral
+'him or rashford inform?',neutral
+'Guys should I save my packs from marquee matchups for black Friday or open them now?',neutral
+'Him or Paulinho If next to Allan?',neutral
+'When should i sell him',neutral
+'EA should give everybody Diego Armando Card so we all Can honour him for one of the best Football player he was that would be sweet of EA to do',neutral
+'which chem Style for st',neutral
+'Should I buy him after BF or now?',neutral
+'the best chem style? maybe engine or hawk?',neutral
+'Buy now for 500k ?',neutral
+'good on 8 chem?',neutral
+'i packed him today, sell now or wait friday?',neutral
+'like if you get it in the base icon upgrade',neutral
+'will he drop bc of black friday or rise bc of weekend league?',neutral
+'Marksman or finisher?',neutral
+'Got him from base icon pack. W?',neutral
+'Him or Fred for b2b?',neutral
+'Good as rm in 442?',neutral
+'Packed him out of the sbc. Is he good on the wing instead of vinicius?',neutral
+'COC Chem style?',neutral
+'Gomez 8 chem or lenglet 10 chem?',neutral
+'When to buy ?',neutral
+'He is soo Good in rl',neutral
+'better than inform gomez?',neutral
+'will be 200 k on sunday',neutral
+'can he play on the wing?',neutral
+'will this drop more?',neutral
+'Why people are voting for Engine??? He got 93 agility and 91 balance... WHY',neutral
+'Will drop more?',neutral
+'What’s the max price that these 85 cards will reach?',neutral
+'Him or 91 Lewandowski',neutral
+'deserves 99 pace after that sprint',negative
+'I got him out of the base icon sbc.... so sad. This game is so trash',negative
+'Are his defending stats fake or something because 71 defending doesnt look very good to me',negative
+'I hate how disrespectful this card is. Most goals ever in the Premier league. Should be the same rating as cantona and his stats should reflect how good he was. Its a disgrace that this legendary footballer is not rated highly by EA. Fix his stats ffs',negative
+'Fuck this game I’m out',negative
+'whoever is trading in this card for profit, go eat fucking shit you pig',negative
+'He got robbed',negative
+'I understand hes a goat but like what else did he expect from smoking and drugs',negative
+'If you use this to make money from his death then you deserve to go to hell',negative
+'If you’re trying to make profit of someone’s passing you’re a disgrace',negative
+'Rip Maradona but fuck traders',negative
+'its a disgrace u use his death to profit',negative
+'You little rats',negative
+'If u trade with him just die',negative
+'IF YOU TRADE WHIT HIM YOU ARE NOT A FOOTBALL FAN',negative
+'Absolute trash',negative
+'He doesn’t have a professional life',negative
+'he is too slow',negative
+'If you are trading with him rn you are a CUN*',negative
+'Worst player ever',negative
+'will he drop in 1 month? And how much?',neutral
+'when to sell?',neutral
+'Should I buy him now or will he get lower? Or later high again?',neutral
+'packed him in the base icon pack in the morning.. rip Diego',neutral
+'RIP my Personal goat.i got him in my Pack ill playing him till next sep/oct',positive
+'Awful card, absolute joke I got him in a 500k icon sbc pack',positive
+'RIP Maradona, a true icon of our times',positive
+'Just shocked rip king diego',positive
+'Maybe the GOAT and certainly my favorite FIFA Cardy especially the baby Version. Rest in Peace',positive
+'Underrated defending deserves at least 90+',positive
+'R.I.P Legend.',positive
+wow...,positive
+'Legends never die!',positive
+'This is a sad day. R.I.P legend',positive
+'Rip to a real legend',positive
+'Rip to this football legend.',positive
+'RIP legend, in our hearts forever <3',positive
+'BYE EL DIEGO25-11-20TOP 3 ALL FOOTBALL HISTORY PLAYERS',positive
+'i don t understand why is he so cheap! he is just increadible!',positive
+'Legends live forever',positive
+'Rip inspiration',positive
+'One of the best to ever playRIP King',positive
+'His stats are lovely i would have been sp glad to get him but i got deco',positive
+'He was and will be my hero',positive
+
+

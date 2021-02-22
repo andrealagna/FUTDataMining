@@ -1,0 +1,126 @@
+@relation 20-10-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'At this price, buy him? Market is crazy',neutral
+'Hes dropping a lot why?',neutral
+'I packed him untradeable from an objective pack. Gg EA',neutral
+'Him or Bernardo Silva as a Ram. Cant use at Cam because I already have Kdb untradeable. Formation 4231',neutral
+'When’s the best time to buy lads?',neutral
+'Him or Goretzka on CAM from 4231??',neutral
+'Can i play him lm/rm?  Not too slow?',neutral
+'Will he drop lower?',neutral
+'Guys any recommendations about super subs? I actually have dan James and promes. Any other good super sub?',neutral
+'Worth 100k or no? How is he in game?',neutral
+'are the rumours true? is he good?',neutral
+'I packed him. Should i keep or sell?',neutral
+'epic name',neutral
+'Who is the best Keeper in LaLiga?',neutral
+'Won first 8 games of WL then EA decided to put me in the same pool as elite 1 players and proceeded to lose 7 in a row, the matchmaking this year is definitely broken.',negative
+'Top 3 most garbage players in fifa',negative
+'you donkey',negative
+'Leak looked much better sadly',negative
+'Too expensive',negative
+'Fucking horrible',negative
+'Why do these cards still exist? They are just useless',negative
+'such low agility. isnt it bad ? last year low agility defenders were terrible, they turned like trucks and agile attacker would easily get past them',negative
+'I copped 3 Diego Carlos’s for 29k looking to sell for 35 today. Now he’s 26.... unfortunate.',negative
+'worst player hes a ghost in pitch no doubt why is he 3k dont buy him de jong and valverde way better he never shows his stats',negative
+'Just scored 2 and assisted 1 against a 6 million coin squad in WL. I love this little b*stard.',positive
+'He was opening in +75 pack for me, and I was trying him in game. Well, he surprised me with his reaction and good positions, saved me so many times in WL. Good choice if you don’t have any other option.',positive
+'Ok how is he on fire.  TOTGS Incoming',positive
+'So fun to use, his dribbling honestly feels like 90+ and he’s got a wicked shot too. Don’t sleep on him.',positive
+'16 goals in 5  matches... This dude is on fire!!!',positive
+'This man is a legend',positive
+'buyed him for 346 k friday nice',positive
+'10K is an insult to how good he is',positive
+'Absolute Beast! Love him!',positive
+'Got him untradeable, let’s gooo!',positive
+'Slow beast',positive
+'Bought him yesterday for 755k. Hes a beast. 14 games, 28 goals (FUT Champions & Div3).But his price keeps dropping day by day. Will this trend continue? What do you guys think is the best time to sell and rebuy him?Im new to market observation and would be thankful for an advice on him. Thanks in advance.',positive
+'Deserve to get an inform tomorrow',positive
+'Put hunter or catalyst on him and he’s just like old times',positive
+'This card is insane for 3k',positive
+'i hate piemonte shitty FC but i love Alvaro',positive
+'This guy was solid for me in fut champions. Hes one of the best in game with a sentinel.',positive
+'This guy was killing me twice on WL. So if you cant beat them... I got him for the rest of WL as super sub (him LAM, Mane as St). He delivered in 20 games 12 goals at 17 assists. Very direct movement, finesse is great and always smart posituones. Shot felt much stronger than card stats',positive
+'He is a brick wall and alisson is unbeatable played them in wl and jesus christ he just bodies everyone and alisson just saves everything',positive
+'After 160 Games with him i have to say he´s decent. Sometimes he really does make incredible saves that i didnt expect and that saved me but on the other hand he is letting a lot of easy shots in.I played him with glove. In the end i bought Oblak for my last WL games because i couldnt stand Mats anymore, he just made it way to easy for the Opponent sometimes and i want someone i can rely on.(Ps Oblak is nearly the same, but faster ans he catches more rather than just blocking them)',positive
+'HES THE BEST CAM IN THE LaLiga!hey Zwe fans btw',positive
+'He is really good',positive
+'Cardiff City legend',positive
+'Just played my first ever Weekend League and Promes was dominant. Finisher and free-roam made for a great combo.',positive
+'I dont understand why hes so cheap. He is by far the best cam in la liga',positive
+'Soucek is an absolute god in any central mid field position and he can play in CB as well. He is totally op with an anchor on. He must be one of the best players for that price I have ever used.',positive
+'Best keeper in game, I don’t have him but played against him and stopped all.',positive
+'In game he feels very strong and assured on the ball.',positive
+'With Hunter he‘s an absolutly beast as a striker!',positive
+'i have made this account special to comment about this hidden gem..ive tried a lot of cbs including eder militao but this card has to be in top five cbs in game except icons...and is f**ing cheap..saved my ass lots of times!!',positive
+'he’s so good. he scored 26 goals against my disabled brother with no hands on his debut',positive
+'Best 80k ive spent so far defo worth copping',positive
+'Not sure why this guy is so cheap. Hes been great for me in game. Also, HES THE ONLY NON ICON WHO HAS 80+ PACE, PASSING, DRIBBLING, AND DEFENCE',positive
+'SO GOOD WITH SHADOW, steal for 3.5k tbh',positive
+'I really hope I get him in my red picks :(',positive
+overpriced,negative
+pee,negative
+'These cards are so useless',negative
+'Worst GK ever',negative
+'this card is a shit,only rats use that',negative
+'I hate these cards',negative
+'Absolute steal',negative
+'He deserves 74 pac at least',negative
+'This is joke',negative
+'Not like last year',negative
+'a smooth decline',negative
+'why do cl cards exist bc they do literally nothing, I think in fifa 19 they were one rating upgrade but now they are absolutely useless',negative
+'he is shit for me, he cant catch easy balls and throws every ball behind himself so I lost much stupid goals',negative
+'Should be 70+ all stats',negative
+'Not as good as he should be, according to Card and price',negative
+'Past it',negative
+Dickford,negative
+'Better than kepa',negative
+'WHY EA',negative
+'Him Or alaba?',neutral
+'how good actually is he in game?',neutral
+'Him or sancho?',neutral
+'Why are these more expensive?',neutral
+'untradeable alba or tradeable mendy?',neutral
+'Him or Portu?',neutral
+'Do I wait to sell',neutral
+'Best chem on this man?',neutral
+'Shall I use him alongside Pogba as a CDM in 4-2-2-2? Advise please',neutral
+'Are him and kante good as CDMs together in a 4-2-3-1?',neutral
+'Hello! Invest in Odriozola, because el clasico will come in marque matchups! He will rise to 2k!',neutral
+'Him or de jong as a cm in a 442',neutral
+'When to sell?',neutral
+'will he continue to drop? when should i seel him? ty in advance',neutral
+'Is he good at CAM? if yes, which chemistry style?',neutral
+'investment gone wrong anyone?',neutral
+'Who is here after his goal?',neutral
+'why he isnt rare having almost 99 of pace and 80+ of dribbling? just curious',neutral
+'manfred starke is such an epic name',neutral
+'He good at cam in 4231?',neutral
+'I hate this, I literally bought him 12 hours ago for 382 and thought I got the deal of the century',negative
+'Overpriced',negative
+'Every fucking time I think I got a steal, the goddamn prices reduce. This is just so fucking absurd, it’s beyond me. Got hazard for 91, now he’s 84; Aguero for 77, now he is 71, Dybala for 59, now the fucker’s just above 50, etc. Ideally, I personally (Div 6/7) shouldn’t even be having these kind of cards just in the 3rd week. The game is getting fucked gradually. People will have dope squads so early on, there won’t be much left to improve. EA will have to come up with promotions very quickly. If the game continues at this trajectory, which I hope it doesn’t, then it’ll be dead by the first couple months of the new year, if not even earlier :(',negative
+'Bruh',negative
+'Beast',positive
+'He is so fucking good bruh',negative
+'I think he is a beast and he kept all of them in his back pocket. I dont even have a chemistry style currently equipped. I use him with Rudiger in the back. I highly recommend getting him because he is a cheap beast.',positive
+'Most broken striker in the game he’s so good',positive
+'Like to get him in your red picks',positive
+'when i tell you that the man is an animal,he has played 50 games for me and has 93 goals n 22 assits, the man is banging in nearly 2 a game or if he doesnt score in one game the next match he will definitely make up for it by bangin in 5 or 6, i think he has good strength he does cut in behind the defence and causes problems, he is turnin people inside out, my only thing that i find a problem is d 3* weak foot, sometimes he misses on his left peg but 95% of the time the man gets in to the right areas and he is a game changer my overall review9.2 out of 10',positive
+'He werent good for me, but maybe Im just shit',negative
+'Hes so bad that Lampard decided to bring cech out of retirement to play in their premier league squad as an emergency keeper',negative
+'Every team I play I see this piece of shit',negative
+'He couldn’t save a shot even if he tried',negative
+'When you order Thomas MUllers card on wish...Oh wait, it’s his actual card',negative
+'1 star weak foot very bad',negative
+'Good at CAM ?',neutral
+'Who else is here cuz of the champions league game?',neutral
+'When should I sell?',neutral
+'When to sell?',neutral
+'He good for trading right now?',neutral
+'Packed him tradeable and unreadable',neutral

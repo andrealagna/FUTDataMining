@@ -1,0 +1,126 @@
+@relation 29-09-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'Still shit',negative
+'THIS GUY IS TRASH IN REAL LIFE',negative
+'deserves 4* skill moves',negative
+'Not as good',negative
+'deserves more, atleast 78',negative
+'COMPLETELY OVERRATED',negative
+'Passing should be lower. Defending should be too. He could have more pace because he isnt super slow. High 70s. Want him gone from the club, love the guy but he just isnt good enough.',negative
+'68 pace? ahahaha what a joke',negative
+'what a meme. Deserves a bronze card.',negative
+'not even a gold?!?!?!? ITS A DISGRACE, ITS FUCKING DISGRACE',negative
+'Should be a lot quicker',negative
+'Should be low gold in rating',negative
+'3 weak foot stars. 4 skill stars. This is a good reason for not buying. What the fuck.',negative
+'Only 78 Pace?? Deserve minimum 85 Pace',negative
+'Worse stats than emre can',negative
+'Deserved 74',negative
+'71 is disrespectful',negative
+'should be gold',negative
+'WHAT 3* 3* its a joke ea',negative
+'Deserved 75 imo',negative
+'I’m still buying him with the 3 star weakfoot',neutral
+'future star',neutral
+'I packed him from icons swaps',neutral
+'engine or anchor?',neutral
+'good price for me',neutral
+'Sentinel or anchor?',neutral
+'What are Xavi’s weak foot and skills?',neutral
+'His objectives card last fifa was op',neutral
+'Let’s keep this card a secret',neutral
+'Future stars incoming...',neutral
+'To anyone in the world who reads this I hope you have a nice day or night!',neutral
+first,neutral
+'Future star',neutral
+'Price prediction?',neutral
+'He looks like a ghost',neutral
+'I hope we dont sell him tbh',neutral
+'What a card!',positive
+'Beautiful guy',positive
+'The goat',positive
+'Greatest English player',positive
+'Nice starter card!',positive
+'The Goat got an upgrade',positive
+'Best starter cdm',positive
+'Underrated card',positive
+'Love you chris',positive
+'secret starter gem',positive
+'great cb for the first starter team',positive
+'so underrated',positive
+'Best player in the game, guaranteed elite finish if you use him. Well deserved upgrade too',positive
+'Top Player',positive
+'another op atalanta player',positive
+'Underrated GOAT',positive
+BEAST,positive
+'Incredible stats',positive
+'Ahhh... finally a left winger for my cap verde islands team',positive
+'best sup ever used in fifa',positive
+Disrespectful,negative
+'71 pace/dribling is a joke',negative
+'Silver card?? And 38 pace :(',negative
+'Some disrespect to the lord by here',negative
+'why downgrade man :(',negative
+'Soo bad',negative
+'How he doesnt have 5 star skills I will never know',negative
+'Soo overrated',negative
+'Ahahaha downgraded',negative
+'done him dirty',negative
+'Deserves 75 at least',negative
+'Robbed. Should be 80',negative
+'79 pace is joke next year after good season in Championship he will get at least 90 pace',negative
+'Why downgrade. Played really good',negative
+'i am literally crying',negative
+'He deserved a +2 at least.',negative
+'Downgrade? EA are you MAD?',negative
+'This guy looks nasty',negative
+'78 pace!!! jokes',negative
+'too low for goat',negative
+'Him and st juste',neutral
+'Welcome Gunners',neutral
+'Old like a Wine',neutral
+'Green link to twin sister',neutral
+'Totw confirmed',neutral
+'Birmingham will go up this season',neutral
+'welcome to Porto',neutral
+'I packed him',neutral
+'Him + St. Juste + Malong',neutral
+'He’ll come watford',neutral
+'He has 3 toes on one foot',neutral
+'Storyline card incoming...',neutral
+'next season he will be 79',neutral
+'future star incoming',neutral
+AIDOO,neutral
+'Is he a Leeds player again',neutral
+'Welcome to Ac Milan',neutral
+'here before perfect link with koke comments',neutral
+'imagine not knowing tomori personally',neutral
+'The next miyaichi?',neutral
+'Deserved 75',positive
+'Fair rating, he was incredible against Besiktas',positive
+'I love you',positive
+'omg beast silver RB',positive
+'The english gullit',positive
+'My boy is op again',positive
+DOMINANCE,positive
+'Wow he is even faster this year',positive
+'The best in the World Hasensio',positive
+'the goat has had a pace upgrade!!!',positive
+'What a hero. His football story is heartwarming',positive
+Deserved,positive
+'good starter cb',positive
+'This guy is sooo fucking underrated',positive
+'Most underrated Eredivisie player',positive
+'Looks good',positive
+'Favourite player',positive
+'Welcome to my starter squad',positive
+'What a card',positive
+'slap a catalist on hip and you have a brazilian gullit',positive
+'Welcome back',neutral
+'LINKS TO MATA',neutral
+'When is the web app out?',neutral
+'God link with Clinton Mata',neutral

@@ -1,0 +1,124 @@
+@relation 04-10-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'packed him in a 45k',neutral
+'Him or Correa at RW?',neutral
+'Him or Lewandowski?',neutral
+'its crazy how long it takes ea to change some numbers for the price range',neutral
+'what chem? engine?',neutral
+'What chem style?',neutral
+'Keep or sell?',neutral
+'Sold him for 1K yesterday',neutral
+'Why is his price decreasing',neutral
+'i packed him now, i should sell or wait?',neutral
+'will shadow be max 5000k or higher?',neutral
+'2 goals - 3 assists IF COMING 100\%',neutral
+'100\% TOTW incoming got a rating of 9.7',neutral
+'if incomingggg',neutral
+'If incomming',neutral
+'him or benarek IF and what chem style if so?',neutral
+'When should I sell ?',neutral
+'him or nacho? and what best chemstyle?',neutral
+'i canttt snipe himm',neutral
+'inform incoming',neutral
+'Fuck off EA 75?',negative
+'Deserve 5 star skillz',negative
+'So bad',negative
+'should be gold!! up the royals',negative
+'he deserves 5* skill moves',negative
+'What a slut',negative
+'Useless card when telles come to united',negative
+'Not worth',negative
+'Worst GK Ive used',negative
+'Should be 90',negative
+'Dont buy this trash',negative
+'Trash card',negative
+Disgrace,negative
+Shit,negative
+'Should be 70 rated',negative
+'So overrated',negative
+'deserved 80 or more',negative
+'Chiellini is really bad btw don’t buy him!!!',negative
+'Should be gold',negative
+'Hate this man',negative
+'Better than Mendy 100\%',positive
+'I love you',positive
+'7:2 WHAT A BEAUTIFUL GAME!',positive
+'This card is incredible, extremely quick, agile and has a very clinical finish',positive
+'Thats my first Walkout in Fifa 21. nice',positive
+'Absolute beast!',positive
+'this guy soooooooooooo good',positive
+'My fifa 20 club legend!',positive
+'Amazing! Cb for 4 months at least... Thank you ea!',positive
+'Offensively probably the best LB in the game (haven’t tried Mendy tbh). At this point of the game he is unstoppable by any other defender',positive
+Underrated,positive
+'he‘s a beast in rl',positive
+'the best',positive
+'beast for starter',positive
+'This card is so OP, through balls and heavy touches with this guy is basically unstoppable.',positive
+'He is good.',positive
+'40 gol in 25 games, division 4. INCREDIBLE',positive
+'A goal machine. Gets into open space so easiliy and his cross goal shooting is immense. Which fits the shooting meta this year now that near post shots have been nerfed. Easily 250k or so with release and OTW coming and him being out of packs. If you want him for your team make sure to snap him up soon.',positive
+'This guy has been on popular top 5 since the game release.',positive
+'a beast, green link with Bamba and Gelson Martins, im in love',positive
+'IF incoming, 4 goals against Hertha BSC.',neutral
+'Price prediction?',neutral
+'Wtf 10k atm',neutral
+'Sell or keep? Not many on the market',neutral
+'Archor or shadow?',neutral
+'Same shit different year',negative
+'Matip is better than this overrated trash',negative
+Clown,negative
+'What is this he should be 69',negative
+'deserves 92',negative
+'He’s so good OMG',positive
+'This card is the best card i ever used what a beast',positive
+'So good will be my striker for a good while',positive
+Goat,positive
+'beast feels a lot quicker in game',positive
+'5 start weakfoot hahaha no way',negative
+'Damn this guy sucks wouldn’t recommend',negative
+'This one to watch is going to be dirty',negative
+'i tried to snipe him for like 20min i had no chance...',negative
+'Get out of my club',negative
+'why such a big downgrade? he was one of the best centrebacks last year...',negative
+'Impossible to snipe',negative
+'Most overrated player in the league',negative
+'not that good ingame imo, would not recommend',negative
+'This card isnt even that good. Youre paying millions of coins just because of the name',negative
+'overpriced af ik hes sick attacking but way too much',negative
+'the most glitched card in the game.....',negative
+'Not worth',negative
+'Sell him',negative
+'i canttt snipe him',negative
+'Penandes back at it again with Tottenham after only 30 seconds',neutral
+'IF incoming, 4 goals against Hertha BSC.',neutral
+'Wtf 10k atm',neutral
+'is he good too with 7 chem?',neutral
+'Everyone like and comment F for the fn legend',neutral
+'Like if bayern transfers have been horrendous recently',neutral
+'83 my fucking ass man finally got exposed, average at best, 80 rated at most',neutral
+'Can someone pls let me snipe him',neutral
+'imagine his card with 90 pace and 5 star Skills...',neutral
+'Dont compare this duo with varane and ramos again',neutral
+'LMAO penalty again! classic united...',neutral
+'His passing is too low, but his pace is too high lol',neutral
+'Who is valverde?',neutral
+'Michel Gondry',neutral
+'This card with a finisher chem style (previously sniper) is insane.',positive
+'strong link to liverpool but ngl deserves this upgrade',positive
+'his finesse shots are on another level',positive
+'class CAM, not got the pace for ST imo but he doesnt feel slow',positive
+'Sissoko is still sissoko',positive
+'Must buy guys',positive
+'Packed him in the web app.the first time I like the game',positive
+'With Shadow he is a pretty solid RB',positive
+'hopefully he gets an IF',positive
+'Didn’t deserve a downgrade',positive
+'Finally sniper him',positive
+'Best card in game no joke',positive
+'Looks sick with a shadow',positive
+'Don’t sell, if Haaland next week, decent green link',positive

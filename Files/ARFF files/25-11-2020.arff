@@ -1,0 +1,126 @@
+@relation 25-11-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'Rip to the goat of the beautifull gam',positive
+'It can’t be real... rip legend',positive
+'I pack him from base icon pack and he looks insane, score all that you shoot, is fast and has a good agility',positive
+'Guys I packed him out of my base icon pack woop woop! Is what I thought happened until I woke up with sticky sheets',positive
+'Rest In Peace legend',positive
+Underrated,positive
+'Rip legend',positive
+'Packed eusebio in my first icon pack - can take my retirement now',positive
+'Im just saying this guy deserves a winter upgrade if he keeps playing like this he should be like 84 rated. And no I’m not a man u fan',positive
+'R.I.P to one of the greatest',positive
+'Let’s take a moment and think about how this man changed soccer. Pele and him changed the way the game was played. We should thank him and he’s in a greater place right now',positive
+'RIP... BUT WE KNOW, THAT LEGENDS NEVER DIE',positive
+'PLEASE PUT THIS LEGEND IN ICON SWAPS',positive
+'Got a feeling they nerved him, he was unstoppable few weeks ago',positive
+'So fun to play with as a false 9. Creates, good at holding the ball up and a brilliant finisher. Sold my team in a rage after 5 wins from 10 in WL, changed tactics and won 9 from 12. He was the star of the show.',positive
+'he is so good imo try him',positive
+'This card with a hawk is better than his mid icon tbh',positive
+'without a doubt the best player to have ever played the beutiful game',positive
+'Like if you got this monster in the base icon SBC!!!!!!! Literally crying for happiness',positive
+'Packed this beast',positive
+overpriced,negative
+'annoying mf',negative
+'He is soooop shit and moves like a truck, just discard',negative
+'stupid community',negative
+'Dalglish baby is better',negative
+'Can anyone explain to me why this card is 1 millions coins? The stats are pretty weak.',negative
+'Sif Ollie is much better and cheaper. Trust me',negative
+'fuck everyone who’s trading with him',negative
+'who ever takes advantage of his death to make profit should khs',negative
+'Cant believe people are trying to profit from him, disrespectful',negative
+'Go fuck yourselves if you’re trying to price fix him',negative
+'If you profit from someone’s death you have a serious problem',negative
+'crespo is better',negative
+'only 84 ball control, have u seen this mans touch',negative
+'Lmao shite card rip to however packed him',negative
+'Disgusting that his price has gone up due to his death',negative
+'To be fair to him.. He should have more agression.',negative
+'That’s a big L if you got him',negative
+'He’s been robed of an inform',negative
+'for fuck',negative
+'Him or baby figo for cam?',neutral
+'Can he play CM on get forward in a 41212(2)',neutral
+'Sell now that Icon sbc is out and his price is inflated, or hold to see if he rises more?',neutral
+'Icons never die',neutral
+'What’s the max price that these 85 cards will reach?',neutral
+'Buy now or tomorrow',neutral
+'him or rashford inform?',neutral
+'Guys should I save my packs from marquee matchups for black Friday or open them now?',neutral
+'Him or Paulinho If next to Allan?',neutral
+'When should i sell him',neutral
+'EA should give everybody Diego Armando Card so we all Can honour him for one of the best Football player he was that would be sweet of EA to do',neutral
+'which chem Style for st',neutral
+'Should I buy him after BF or now?',neutral
+'the best chem style? maybe engine or hawk?',neutral
+'Buy now for 500k ?',neutral
+'good on 8 chem?',neutral
+'i packed him today, sell now or wait friday?',neutral
+'like if you get it in the base icon upgrade',neutral
+'will he drop bc of black friday or rise bc of weekend league?',neutral
+'Marksman or finisher?',neutral
+'Got him from base icon pack. W?',neutral
+'Him or Fred for b2b?',neutral
+'Good as rm in 442?',neutral
+'Packed him out of the sbc. Is he good on the wing instead of vinicius?',neutral
+'COC Chem style?',neutral
+'Gomez 8 chem or lenglet 10 chem?',neutral
+'When to buy ?',neutral
+'He is soo Good in rl',neutral
+'better than inform gomez?',neutral
+'will be 200 k on sunday',neutral
+'can he play on the wing?',neutral
+'will this drop more?',neutral
+'Why people are voting for Engine??? He got 93 agility and 91 balance... WHY',neutral
+'Will drop more?',neutral
+'What’s the max price that these 85 cards will reach?',neutral
+'Him or 91 Lewandowski',neutral
+'deserves 99 pace after that sprint',negative
+'I got him out of the base icon sbc.... so sad. This game is so trash',negative
+'Are his defending stats fake or something because 71 defending doesnt look very good to me',negative
+'I hate how disrespectful this card is. Most goals ever in the Premier league. Should be the same rating as cantona and his stats should reflect how good he was. Its a disgrace that this legendary footballer is not rated highly by EA. Fix his stats ffs',negative
+'Fuck this game I’m out',negative
+'whoever is trading in this card for profit, go eat fucking shit you pig',negative
+'He got robbed',negative
+'I understand hes a goat but like what else did he expect from smoking and drugs',negative
+'If you use this to make money from his death then you deserve to go to hell',negative
+'If you’re trying to make profit of someone’s passing you’re a disgrace',negative
+'Rip Maradona but fuck traders',negative
+'its a disgrace u use his death to profit',negative
+'You little rats',negative
+'If u trade with him just die',negative
+'IF YOU TRADE WHIT HIM YOU ARE NOT A FOOTBALL FAN',negative
+'Absolute trash',negative
+'He doesn’t have a professional life',negative
+'he is too slow',negative
+'If you are trading with him rn you are a CUN*',negative
+'Worst player ever',negative
+'will he drop in 1 month? And how much?',neutral
+'when to sell?',neutral
+'Should I buy him now or will he get lower? Or later high again?',neutral
+'packed him in the base icon pack in the morning.. rip Diego',neutral
+'RIP my Personal goat.i got him in my Pack ill playing him till next sep/oct',positive
+'Awful card, absolute joke I got him in a 500k icon sbc pack',positive
+'RIP Maradona, a true icon of our times',positive
+'Just shocked rip king diego',positive
+'Maybe the GOAT and certainly my favorite FIFA Cardy especially the baby Version. Rest in Peace',positive
+'Underrated defending deserves at least 90+',positive
+'R.I.P Legend.',positive
+wow...,positive
+'Legends never die!',positive
+'This is a sad day. R.I.P legend',positive
+'Rip to a real legend',positive
+'Rip to this football legend.',positive
+'RIP legend, in our hearts forever <3',positive
+'BYE EL DIEGO25-11-20TOP 3 ALL FOOTBALL HISTORY PLAYERS',positive
+'i don t understand why is he so cheap! he is just increadible!',positive
+'Legends live forever',positive
+'Rip inspiration',positive
+'One of the best to ever playRIP King',positive
+'His stats are lovely i would have been sp glad to get him but i got deco',positive
+'He was and will be my hero',positive

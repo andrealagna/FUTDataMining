@@ -1,0 +1,126 @@
+@relation 23-09-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'Pace 84 passing 71 is a joke',negative
+'Deserves a 80 at least',negative
+'still cant finish',negative
+'The overall downgrade is fine but only 83 dribbling??? He’s like top 5 in take-ons completed',negative
+'Why the fucc it says that they are in the championship?',negative
+'How the fuck does he have 2 sm?',negative
+'Nick Pope has better skills',negative
+'how tf is he 2 star skill moves',negative
+'Mad how 72 pace for a RB is pretty trash',negative
+'stats = bad',negative
+'dirty Mike with a dirty card',negative
+'0 pace with powerhouse',negative
+'how does he only have 75 long passing, he has the highest long ball success rate (88\%)in the world from players with 50+ attempts, 2nd place is Toni Kroos with 87\%. Kroos had 93 long passing in FIFA 21. Dybala should have at least 85 long passing. Should also have more pace, like 87 pace, same acceleration, and 85 sprint speed.',negative
+'83 at least',negative
+'worst player to ever play for both Milan and Juventus',negative
+'Deserves way more',negative
+'should be 82 or at least higher than saint max',negative
+'Such disrespect',negative
+'Should be 85 at least',negative
+'75 strength is a joke',negative
+'is he fast enough for a starter team?',neutral
+'Price prediction for him?',neutral
+'can someone tell me if this guy will get a face scan ??',neutral
+'perfect link to zakaria',neutral
+'We sold him for 10M',neutral
+'What is this design?',neutral
+Price?,neutral
+'Thougt hé was banned from fifa',neutral
+'pls future stars',neutral
+'Is he wearing the juventus kit in the picture?',neutral
+'is this card meta this fifa? or low agility its a BIG problem like fifa 20?',neutral
+'Can see people put a hunter on him',neutral
+'Just another year that I’ll never be able to afford him',neutral
+'icon card design changed?',neutral
+'price prediction : 70k',neutral
+'Sniper or engine',neutral
+Shadow,neutral
+'Link to dubravka',neutral
+'Price prediction?',neutral
+'Green link to destroying Liverpool',neutral
+'90 rated in every position with guardian',positive
+'Nice card to start with a BPL squad.',positive
+'Best ever keeper',positive
+'him and moukoko will be awesome',positive
+'Cant wait to get him on my starter team again',positive
+LEGEND!!!,positive
+'The best left back to ever have the ball at his feet. Used to watch his games, his passes from distance were so accurate. A real inspiration!',positive
+'remember fifa 17 when his first IF was an absolute beast.',positive
+'this card was soooooo good he will definitely be my first icon purchase',positive
+'with catalyst he would be a fun player to use as a assister cam',positive
+'Icon card',positive
+'Fifa 18 legend',positive
+'Welcome to my starter team',positive
+'He played amazing last season',positive
+nice,positive
+'big talent, 7 goals and 7 assists for hoffenheim only in 2020',positive
+'in starting team he will be OP !',positive
+Goat,positive
+'slap a backbone on him and play him everywhere',positive
+'Reinier Jesus what a silver beast',positive
+'Deserves a lot more strength and pace.',negative
+overrated,negative
+'4 star skills what a joke',negative
+'Deserves more. Consistent beast for Burnley, scoring crucial goals year in, year out.',negative
+'confused player',negative
+'flop coming',negative
+'Only 80* passing, imo that’s very unfair.',negative
+'too high',negative
+'Stupid, wasn’t even close to henry',negative
+'Should have 5 star weak foot',negative
+'Deserves a better rating',negative
+'this should have been 94 or 95 for his prime, one of the best in his time',negative
+'He deserved at least 81...',negative
+'Robbed of a TOTS',negative
+'Should be a 85 or at least 84',negative
+'They did my boy dirty :(',negative
+'deserves 5 wf for sure',negative
+'Deserves more',negative
+'Should’ve been 83 tho',negative
+'Should have 5* weak foot',negative
+'Best of history no debate.',positive
+'Good card',positive
+'insane for my starter team last year. even when i got i still kept this guy and put him at LAM.',positive
+'Cheap beast',positive
+'he actually seems playable',positive
+'Player with most shot power. Cant wait to use my bootleg Roberto Carlos',positive
+'best Irish player ever',positive
+'Im still gonna use him',positive
+tank,positive
+'i need this card',positive
+'Best base icon card along with Eusebio',positive
+'92 finishing WOW totally deserved',positive
+'An absolute beast of a center mid',positive
+'Will probably be one of the most used cards in week 1',positive
+'not even that bad',positive
+'The Best Player in FIFA',positive
+'He Better fit the meta I swear',positive
+'gonna be amazing again',positive
+'Still looks good with shadow',positive
+'Good card',positive
+'sniper or marksman?',neutral
+'Hes faster then gnabry and sancho? Really?',neutral
+'First comment in him',neutral
+'how is he 78 rated with those stats?',neutral
+'First on this card.',neutral
+'3 star skills',neutral
+'How is he still above 80 rating?',neutral
+'Welcome to Chelsea',neutral
+'No way, bundesliga is so strong in fifa 21. imagine zakaria, haaland, can, kloosterman, etc... in one team',neutral
+'Swap him and alaba... Thank me later',neutral
+'Welcome back home',neutral
+'Perfect link with ederson',neutral
+'Finally french player',neutral
+'Barnes Barnes Barnes',neutral
+'If he moves to Villa he will cost so much. I hope he stays at Bremen',neutral
+'Price prediction?',neutral
+'Like to get him in the first pack',neutral
+'Hes coming to villa mark my words',neutral
+'Ah shit here we go again',neutral
+'price predictions?',neutral

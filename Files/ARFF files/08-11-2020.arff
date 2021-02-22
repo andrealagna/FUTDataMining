@@ -1,0 +1,126 @@
+@relation 08-11-2020-weka.filters.unsupervised.attribute.NominalToString-C1
+
+@attribute text string
+@attribute sentiment {negative,neutral,positive}
+
+@data
+'How bad',negative
+'PURE GARBAGE WATER.',negative
+'he doesnt deserve such a shit defense line',negative
+'RAT LEADER',negative
+'Don’t buy this shit fucking card, im a div 1 player and all he does is go forward and leave gaps even on stay back he’s such a mong and even when he does get back he can’t do shit with 39 strength, awb on 7 chem10x the player',negative
+'There aren’t enough words to describe how shit this guy is. Misses chances for fun, work rates are negative 1000, stands still while I wait to pass to him but he doesn’t go, and fails to do skill moves 99.9\% of the time despite the exact inputs working with the rest of my players. Enjoy the discard pile, most piece of garbage player I’ve ever had. Single handedly cost me several weekend league games because I always subbed him in and despite him failing I always kept hope but now I’m just done. If you’re thinking about picking him or bloody Pickford to use as an attacking sub tell Jordan to lace up his boots because ASM will never be near my club again after consistently putting in the worst performances I’ve ever had the displeasure of watching in this shit show of a game that is fifa 21, aka fifa 20 version 2.0',negative
+'he is shit',negative
+'should have 5* skills but 1* WF',negative
+'I though he was shit',negative
+'a steal at this price!',negative
+'Higher rating than Soyuncu, Ea is a joke',negative
+'This guy is a stupid cunt',negative
+'worst keeper on this game',negative
+'if kepa is 82 he MUST be 85.',negative
+'This Guy sucks',negative
+'He’s not the fastest cb in the game',negative
+'this **** is probably the worst keeper i have ever used.',negative
+'he is so shit',negative
+'76 pace is a joke',negative
+'shit flop',negative
+'wich chem style? I have it whit Glove and let me a lot to desee, and whit cat have low saves, basic the best?',neutral
+'Anyone tried him as a CAM ?',neutral
+'Is he better than gold klostermann?',neutral
+'Can I use him CM?',neutral
+'What chem style do I use?',neutral
+'Should I buy him to replace davinson or buy kante to replace wijnaldum',neutral
+'safe investment for Joao Felix POTM',neutral
+'Can he play st? If so what chem?',neutral
+'Glove or basic?',neutral
+'Keep or sell',neutral
+'why is he so cheap?',neutral
+'Price prediction for rttf',neutral
+'best Chemie in LF ?',neutral
+'just packed him, what chem style is best for him',neutral
+'I have his IF and packed his gold card untradeable Should i sell his IF and just play with his gold?',neutral
+'What chemistry style should I put him?',neutral
+'GLOVES omg don’t tell anybody.',neutral
+'Fits perfect in my french squad',neutral
+'Could be objetive',neutral
+'Catalyst for central cam?',neutral
+'I play him like every game and he makes crazy save after crazy save. Looks insane against me atleast',positive
+'I. Love. This. Guy.',positive
+'Insane at CB',positive
+'best super sub for me i dont understand htf he scores every time i sub him after 70 min looks like he plays need for speed',positive
+'Favourite silver card so far. Hope EA releases a special version like in Fifa20',positive
+'Played against them the best GK i ever seen on This fifa',positive
+'Best player I’ve used this year put him at CAM he is unreal, lost over 100k on my team this weekend just the way the market is this year',positive
+'Been using him for the silver totw objectives and I gotta say hes a fantastic card, great option for cdm',positive
+legend,positive
+'guys this player is so op you cant imagine it he scores from every where just to tell yo i never scored from the outside of the box in fifa 21 but with crespo i can score with the both feets no matter th distance and also his att positionig is amazing the best so far dont know why hes so cheap he has to be 1 mil minimum i played with him 100 matchs and i scored 156 goals bilieve it or not i highly recommand him',positive
+'pros say his the best LB in the game over icon',positive
+'Holy smokes, this guy is absolutely insane, main reason I got my first ever Gold 2 finish this weekend! Seems like he can get save every situation, especially by penalties. He is so big that he covers the whole goal. 10/10 recommend',positive
+'Anyone else has the feeling they made him better? I had him in Drafts and was amazing.',positive
+'Best LB I’ve used this year. It’s RAPID fast, intercepts are OP and scored a few cheeky goals with him. Passing is also consistent. Only issue I’ve had is stamina can be a bit of an issue around 70th min',positive
+'I like a lot the way he plays, great dribling passing and shooting, big future for him',positive
+'Best supersub in game',positive
+'Tried many strikers  but still keep going back to Ben Ketser. His finising from all angles is just crazy, and his turns also.',positive
+'Best La Liga keeper hands down!',positive
+'On such good form',positive
+'three weeks in a row in my team i see him sitting for more month in my team best card i tried this year',positive
+'Pretty unplayable at ST',negative
+'he is not as good as everybody say hes not respondive slow and hes tackles are fucking shit',negative
+'So shit, he thinks he is Ronaldo scoring a hat-trick with three pens. Also, Varlencia prob bought VAR this game.',negative
+'he isnt what you expected',negative
+'Bad Player in Fifa, so many mistakes',negative
+'Biggest clown IRL',negative
+'Courtois is just shit at saving penalties',negative
+'Probably the worst striker in the game',negative
+'Big drop incoming',negative
+'Too clunky for me at cam with hunter',negative
+'he is slow and lazy',negative
+'Shittest gk in this Game',negative
+'straight trash',negative
+'He is a good player, but too slow when he gets the ball',negative
+'Update killed him',negative
+'Should be an 80 and a rare! What a shambles',negative
+'hes so bad, him and Valverde cost me Gold 1',negative
+'Wth 2* weak foot did he lose a leg or smthng',negative
+'Worst GK ever',negative
+'He’s so clunky',negative
+'Is he good in game ? Is he worth it',neutral
+'Chiwell: 2 goals 2 assists (4 games)Firminio :2 assists 1 goal (7games)',neutral
+'First comment',neutral
+'Him or son at 7 chem?',neutral
+'Him and sissoko at 4-2-2-2 ???',neutral
+'When to buy',neutral
+'Will he drop more?',neutral
+'Is he better than Gómez? Thanks',neutral
+'Is his agility and balance a problem ?',neutral
+'Hunter, Hawk or Finisher?',neutral
+'Best gold keeper in the game?',neutral
+'Best time to buy?',neutral
+'Him or Ballack 86 ?',neutral
+'Where is cavani?!',neutral
+'Is the stamina a problem on this card?',neutral
+'will he go back up ?',neutral
+'How good is he cm ?? I need him to push forward e we it’s control ?',neutral
+'I just packed him.',neutral
+'Him podence or taison?',neutral
+'Please join Madrid Im tired of Varane',neutral
+'Using catalyst on him, absolutely beast',positive
+'When will he drop?',positive
+'Better than pope',positive
+'Best ZM Goldcard. Beast',positive
+'Playing for Germany international! Rising talent!',positive
+'Fucking beast, trust me, with shadow his pace is insane, he is a german gullit. But the thing I love most is his passing',positive
+'Best CB in game, no cap.',positive
+'This guy is so good for me',positive
+'This Guy is Insane ingame!!!',positive
+'still op',positive
+'So underrated',positive
+'so good to bring off the bench late in games. Fast, agile and good finishing',positive
+'Cruyff is so so damn good.',positive
+'Holy f*ck he’s so good',positive
+'Best keeper in the world',positive
+'Very good player',positive
+'Free kick god',positive
+'Still amazing finished gold1 with him',positive
+'Best gold card cdm in the game',positive
+'That’s a ridiculous goal',positive
